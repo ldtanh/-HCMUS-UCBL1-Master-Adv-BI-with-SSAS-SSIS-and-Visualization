@@ -1,0 +1,151 @@
+﻿<ConfigurationSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Database>
+    <DataSources>
+      <DataSource>
+        <ID>Adv BI</ID>
+        <ConnectionString>Provider=SQLNCLI11.1;Data Source=DESKTOP-L29EDNF;Integrated Security=SSPI;Initial Catalog=AdvBI</ConnectionString>
+        <ImpersonationInfo>
+          <ImpersonationMode xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">ImpersonateAccount</ImpersonationMode>
+          <Account xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">leduo</Account>
+          <ImpersonationInfoSecurity xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">PasswordRemoved</ImpersonationInfoSecurity>
+        </ImpersonationInfo>
+      </DataSource>
+    </DataSources>
+    <Dimensions>
+      <Dimension>
+        <ID>Date Time Table</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Coverage Type Table</ID>
+      </Dimension>
+      <Dimension>
+        <ID>State Table</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Age Group Table</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Race Table</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Gender Table</ID>
+      </Dimension>
+    </Dimensions>
+    <Cubes>
+      <Cube>
+        <ID>AdvBI</ID>
+        <MeasureGroups>
+          <MeasureGroup>
+            <ID>Health Insurance Source Table</ID>
+            <Partitions>
+              <Partition>
+                <ID>Health Insurance Source Table</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+          <MeasureGroup>
+            <ID>Income Source Table</ID>
+            <Partitions>
+              <Partition>
+                <ID>Income Source Table</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+          <MeasureGroup>
+            <ID>Medicaid Source Table</ID>
+            <Partitions>
+              <Partition>
+                <ID>Medicaid Source Table</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+          <MeasureGroup>
+            <ID>Medicare Source Table</ID>
+            <Partitions>
+              <Partition>
+                <ID>Medicare Source Table</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+          <MeasureGroup>
+            <ID>Poverty Source Table</ID>
+            <Partitions>
+              <Partition>
+                <ID>Poverty Source Table</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+        </MeasureGroups>
+      </Cube>
+      <Cube>
+        <ID>HealthInsurance</ID>
+        <MeasureGroups>
+          <MeasureGroup>
+            <ID>Health Insurance Source Table</ID>
+            <Partitions>
+              <Partition>
+                <ID>Health Insurance Source Table</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+        </MeasureGroups>
+      </Cube>
+      <Cube>
+        <ID>Income</ID>
+        <MeasureGroups>
+          <MeasureGroup>
+            <ID>Income Source Table</ID>
+            <Partitions>
+              <Partition>
+                <ID>Income Source Table</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+        </MeasureGroups>
+      </Cube>
+      <Cube>
+        <ID>Medicaid</ID>
+        <MeasureGroups>
+          <MeasureGroup>
+            <ID>Medicaid Source Table</ID>
+            <Partitions>
+              <Partition>
+                <ID>Medicaid Source Table</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+        </MeasureGroups>
+      </Cube>
+      <Cube>
+        <ID>Medicare</ID>
+        <MeasureGroups>
+          <MeasureGroup>
+            <ID>Medicare Source Table</ID>
+            <Partitions>
+              <Partition>
+                <ID>Medicare Source Table</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+        </MeasureGroups>
+      </Cube>
+      <Cube>
+        <ID>Poverty</ID>
+        <MeasureGroups>
+          <MeasureGroup>
+            <ID>Poverty Source Table</ID>
+            <Partitions>
+              <Partition>
+                <ID>Poverty Source Table</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+        </MeasureGroups>
+      </Cube>
+    </Cubes>
+    <DataSourceImpersonationInfo>
+      <ImpersonationMode xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">Default</ImpersonationMode>
+      <ImpersonationInfoSecurity xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">Unchanged</ImpersonationInfoSecurity>
+    </DataSourceImpersonationInfo>
+  </Database>
+</ConfigurationSettings>

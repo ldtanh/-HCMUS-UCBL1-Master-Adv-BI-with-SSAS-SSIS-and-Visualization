@@ -1,0 +1,131 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>OLAP</Database>
+    <Server>.</Server>
+    <ConnectionString>Data Source=.;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>Default</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>3eMUsQzYxGcGQSGtGd+RJURswNc=12/14/2021 12:07:27 AM12/14/2021 12:07:27 AM</TimeStamp>
+        <ID>
+          <String>Adv BI</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>JanNv9QNBC+0aUgke/OVhSq5AJI=12/18/2021 11:58:37 PM12/14/2021 12:13:31 AM</TimeStamp>
+        <ID>
+          <String>AdvBI</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>C1pa+AQBk+9qC1zQWFmAi1kdpqU=12/19/2021 2:15:38 PM12/19/2021 2:13:47 PM</TimeStamp>
+        <ID>
+          <String>Date Time Table</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>H3pMrH2kUeCt9rLuffEJsuXEVwk=12/19/2021 2:49:08 PM12/19/2021 2:13:47 PM</TimeStamp>
+        <ID>
+          <String>Coverage Type Table</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>4y9vAuvvS1x6go6uxeLP3QVgp2I=12/19/2021 2:49:07 PM12/19/2021 2:13:47 PM</TimeStamp>
+        <ID>
+          <String>State Table</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>KvLUHqPShyvG+S6xjtVK+okga4g=12/19/2021 2:49:17 PM12/19/2021 2:13:47 PM</TimeStamp>
+        <ID>
+          <String>Age Group Table</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>kq/nbkM5pko9Qm4GIkzs/+qWdk0=12/19/2021 2:49:25 PM12/19/2021 2:13:47 PM</TimeStamp>
+        <ID>
+          <String>Race Table</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>OvbV7CqU098/xa5bQyhmVwBI+rk=12/19/2021 2:49:25 PM12/19/2021 2:13:47 PM</TimeStamp>
+        <ID>
+          <String>Gender Table</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>dqYhbePHSFvl11BLlHiIZpDGilc=12/19/2021 2:49:25 PM12/19/2021 2:13:47 PM3MIjVC6GNFNLrFGRK9Tv5liy7KQ=12/19/2021 2:13:48 PM12/19/2021 2:13:47 PM</TimeStamp>
+        <ID>
+          <String>AdvBI</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>NfvVA0SVuDhJc8vl2hV/gEDQBZI=12/19/2021 2:49:17 PM12/19/2021 2:14:20 PM+xmOhABE+LkdmojMFZvvrfK+5ZY=12/19/2021 2:14:20 PM12/19/2021 2:14:20 PM</TimeStamp>
+        <ID>
+          <String>HealthInsurance</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>xXGnCOhfbd38pEXHM38Xy+8uYyY=12/19/2021 2:49:08 PM12/19/2021 2:14:36 PMboMmYx7MgW8trg3vps97ADDxFRw=12/19/2021 2:14:36 PM12/19/2021 2:14:36 PM</TimeStamp>
+        <ID>
+          <String>Income</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>ymYMzPXO94PgOV5plPIp5uxD8Ns=12/19/2021 2:49:25 PM12/19/2021 2:14:49 PMqmsj17kujlXi2QbLeQZ05Khb6kU=12/19/2021 2:14:49 PM12/19/2021 2:14:49 PM</TimeStamp>
+        <ID>
+          <String>Medicaid</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>keUm2B1DjnZOKJV7A10DHFOZBGA=12/19/2021 2:49:25 PM12/19/2021 2:15:08 PMsIRBx6liZ/gNZ5iZq5pqIxJCEOI=12/19/2021 2:15:08 PM12/19/2021 2:15:08 PM</TimeStamp>
+        <ID>
+          <String>Medicare</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>AUDWoshtDVn9IKiWUSb+OlEsTPQ=12/19/2021 2:49:25 PM12/19/2021 2:15:21 PMdimYuJQFInPIh/2GRNPnYEuLwok=12/19/2021 2:15:21 PM12/19/2021 2:15:21 PM</TimeStamp>
+        <ID>
+          <String>Poverty</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>M1mySYQkcNoBhJe9B16J8gtG8MQ=12/13/2021 2:35:17 AM12/13/2021 2:35:17 AM</TimeStamp>
+      <ID>
+        <String>OLAP</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2021-12-19T07:49:33.406667Z</LastDeployed>
+</DeploymentSnapshot>

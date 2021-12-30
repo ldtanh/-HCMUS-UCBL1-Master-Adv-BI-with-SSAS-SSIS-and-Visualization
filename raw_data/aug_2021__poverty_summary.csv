@@ -1,0 +1,2185 @@
+State,Age Group,Gender,Race,Poverty Rate,Month,Year
+Alabama,0-18,Male,NonHispanic_White,0.002431,8,2021
+Alabama,0-18,Male,AfricanAmerican,0.006188,8,2021
+Alabama,0-18,Male,Hispanic,0.006851,8,2021
+Alabama,0-18,Male,Asian,0.001989,8,2021
+Alabama,0-18,Male,AmericanIndian,0.0,8,2021
+Alabama,0-18,Male,OtherPacific_Islander,0.00442,8,2021
+Alabama,0-18,Male,TwoOrMore_Races,0.003757,8,2021
+Alabama,0-18,Female,NonHispanic_White,0.003179,8,2021
+Alabama,0-18,Female,AfricanAmerican,0.008092,8,2021
+Alabama,0-18,Female,Hispanic,0.008959,8,2021
+Alabama,0-18,Female,Asian,0.002601,8,2021
+Alabama,0-18,Female,AmericanIndian,0.0,8,2021
+Alabama,0-18,Female,OtherPacific_Islander,0.0057799999999999995,8,2021
+Alabama,0-18,Female,TwoOrMore_Races,0.004913,8,2021
+Alabama,19-64,Male,NonHispanic_White,0.002431,8,2021
+Alabama,19-64,Male,AfricanAmerican,0.006188,8,2021
+Alabama,19-64,Male,Hispanic,0.006851,8,2021
+Alabama,19-64,Male,Asian,0.001989,8,2021
+Alabama,19-64,Male,AmericanIndian,0.0,8,2021
+Alabama,19-64,Male,OtherPacific_Islander,0.00442,8,2021
+Alabama,19-64,Male,TwoOrMore_Races,0.003757,8,2021
+Alabama,19-64,Female,NonHispanic_White,0.003179,8,2021
+Alabama,19-64,Female,AfricanAmerican,0.008092,8,2021
+Alabama,19-64,Female,Hispanic,0.008959,8,2021
+Alabama,19-64,Female,Asian,0.002601,8,2021
+Alabama,19-64,Female,AmericanIndian,0.0,8,2021
+Alabama,19-64,Female,OtherPacific_Islander,0.0057799999999999995,8,2021
+Alabama,19-64,Female,TwoOrMore_Races,0.004913,8,2021
+Alabama,65+,Male,NonHispanic_White,0.002431,8,2021
+Alabama,65+,Male,AfricanAmerican,0.006188,8,2021
+Alabama,65+,Male,Hispanic,0.006851,8,2021
+Alabama,65+,Male,Asian,0.001989,8,2021
+Alabama,65+,Male,AmericanIndian,0.0,8,2021
+Alabama,65+,Male,OtherPacific_Islander,0.00442,8,2021
+Alabama,65+,Male,TwoOrMore_Races,0.003757,8,2021
+Alabama,65+,Female,NonHispanic_White,0.003179,8,2021
+Alabama,65+,Female,AfricanAmerican,0.008092,8,2021
+Alabama,65+,Female,Hispanic,0.008959,8,2021
+Alabama,65+,Female,Asian,0.002601,8,2021
+Alabama,65+,Female,AmericanIndian,0.0,8,2021
+Alabama,65+,Female,OtherPacific_Islander,0.0057799999999999995,8,2021
+Alabama,65+,Female,TwoOrMore_Races,0.004913,8,2021
+Alaska,0-18,Male,NonHispanic_White,0.000336,8,2021
+Alaska,0-18,Male,AfricanAmerican,0.0,8,2021
+Alaska,0-18,Male,Hispanic,0.0,8,2021
+Alaska,0-18,Male,Asian,0.0,8,2021
+Alaska,0-18,Male,AmericanIndian,0.001064,8,2021
+Alaska,0-18,Male,OtherPacific_Islander,0.000616,8,2021
+Alaska,0-18,Male,TwoOrMore_Races,0.00044800000000000005,8,2021
+Alaska,0-18,Female,NonHispanic_White,0.000288,8,2021
+Alaska,0-18,Female,AfricanAmerican,0.0,8,2021
+Alaska,0-18,Female,Hispanic,0.0,8,2021
+Alaska,0-18,Female,Asian,0.0,8,2021
+Alaska,0-18,Female,AmericanIndian,0.0009119999999999999,8,2021
+Alaska,0-18,Female,OtherPacific_Islander,0.000528,8,2021
+Alaska,0-18,Female,TwoOrMore_Races,0.000384,8,2021
+Alaska,19-64,Male,NonHispanic_White,0.000336,8,2021
+Alaska,19-64,Male,AfricanAmerican,0.0,8,2021
+Alaska,19-64,Male,Hispanic,0.0,8,2021
+Alaska,19-64,Male,Asian,0.0,8,2021
+Alaska,19-64,Male,AmericanIndian,0.001064,8,2021
+Alaska,19-64,Male,OtherPacific_Islander,0.000616,8,2021
+Alaska,19-64,Male,TwoOrMore_Races,0.00044800000000000005,8,2021
+Alaska,19-64,Female,NonHispanic_White,0.000288,8,2021
+Alaska,19-64,Female,AfricanAmerican,0.0,8,2021
+Alaska,19-64,Female,Hispanic,0.0,8,2021
+Alaska,19-64,Female,Asian,0.0,8,2021
+Alaska,19-64,Female,AmericanIndian,0.0009119999999999999,8,2021
+Alaska,19-64,Female,OtherPacific_Islander,0.000528,8,2021
+Alaska,19-64,Female,TwoOrMore_Races,0.000384,8,2021
+Alaska,65+,Male,NonHispanic_White,0.000336,8,2021
+Alaska,65+,Male,AfricanAmerican,0.0,8,2021
+Alaska,65+,Male,Hispanic,0.0,8,2021
+Alaska,65+,Male,Asian,0.0,8,2021
+Alaska,65+,Male,AmericanIndian,0.001064,8,2021
+Alaska,65+,Male,OtherPacific_Islander,0.000616,8,2021
+Alaska,65+,Male,TwoOrMore_Races,0.00044800000000000005,8,2021
+Alaska,65+,Female,NonHispanic_White,0.000288,8,2021
+Alaska,65+,Female,AfricanAmerican,0.0,8,2021
+Alaska,65+,Female,Hispanic,0.0,8,2021
+Alaska,65+,Female,Asian,0.0,8,2021
+Alaska,65+,Female,AmericanIndian,0.0009119999999999999,8,2021
+Alaska,65+,Female,OtherPacific_Islander,0.000528,8,2021
+Alaska,65+,Female,TwoOrMore_Races,0.000384,8,2021
+Arizona,0-18,Male,NonHispanic_White,0.0015119999999999999,8,2021
+Arizona,0-18,Male,AfricanAmerican,0.00336,8,2021
+Arizona,0-18,Male,Hispanic,0.003696,8,2021
+Arizona,0-18,Male,Asian,0.001848,8,2021
+Arizona,0-18,Male,AmericanIndian,0.005376,8,2021
+Arizona,0-18,Male,OtherPacific_Islander,0.002184,8,2021
+Arizona,0-18,Male,TwoOrMore_Races,0.002352,8,2021
+Arizona,0-18,Female,NonHispanic_White,0.0017640000000000002,8,2021
+Arizona,0-18,Female,AfricanAmerican,0.00392,8,2021
+Arizona,0-18,Female,Hispanic,0.004312,8,2021
+Arizona,0-18,Female,Asian,0.002156,8,2021
+Arizona,0-18,Female,AmericanIndian,0.006272,8,2021
+Arizona,0-18,Female,OtherPacific_Islander,0.002548,8,2021
+Arizona,0-18,Female,TwoOrMore_Races,0.002744,8,2021
+Arizona,19-64,Male,NonHispanic_White,0.0015119999999999999,8,2021
+Arizona,19-64,Male,AfricanAmerican,0.00336,8,2021
+Arizona,19-64,Male,Hispanic,0.003696,8,2021
+Arizona,19-64,Male,Asian,0.001848,8,2021
+Arizona,19-64,Male,AmericanIndian,0.005376,8,2021
+Arizona,19-64,Male,OtherPacific_Islander,0.002184,8,2021
+Arizona,19-64,Male,TwoOrMore_Races,0.002352,8,2021
+Arizona,19-64,Female,NonHispanic_White,0.0017640000000000002,8,2021
+Arizona,19-64,Female,AfricanAmerican,0.00392,8,2021
+Arizona,19-64,Female,Hispanic,0.004312,8,2021
+Arizona,19-64,Female,Asian,0.002156,8,2021
+Arizona,19-64,Female,AmericanIndian,0.006272,8,2021
+Arizona,19-64,Female,OtherPacific_Islander,0.002548,8,2021
+Arizona,19-64,Female,TwoOrMore_Races,0.002744,8,2021
+Arizona,65+,Male,NonHispanic_White,0.0015119999999999999,8,2021
+Arizona,65+,Male,AfricanAmerican,0.00336,8,2021
+Arizona,65+,Male,Hispanic,0.003696,8,2021
+Arizona,65+,Male,Asian,0.001848,8,2021
+Arizona,65+,Male,AmericanIndian,0.005376,8,2021
+Arizona,65+,Male,OtherPacific_Islander,0.002184,8,2021
+Arizona,65+,Male,TwoOrMore_Races,0.002352,8,2021
+Arizona,65+,Female,NonHispanic_White,0.0017640000000000002,8,2021
+Arizona,65+,Female,AfricanAmerican,0.00392,8,2021
+Arizona,65+,Female,Hispanic,0.004312,8,2021
+Arizona,65+,Female,Asian,0.002156,8,2021
+Arizona,65+,Female,AmericanIndian,0.006272,8,2021
+Arizona,65+,Female,OtherPacific_Islander,0.002548,8,2021
+Arizona,65+,Female,TwoOrMore_Races,0.002744,8,2021
+Arkansas,0-18,Male,NonHispanic_White,0.002856,8,2021
+Arkansas,0-18,Male,AfricanAmerican,0.0071400000000000005,8,2021
+Arkansas,0-18,Male,Hispanic,0.0076159999999999995,8,2021
+Arkansas,0-18,Male,Asian,0.0038079999999999998,8,2021
+Arkansas,0-18,Male,AmericanIndian,0.004522,8,2021
+Arkansas,0-18,Male,OtherPacific_Islander,0.005236,8,2021
+Arkansas,0-18,Male,TwoOrMore_Races,0.004046,8,2021
+Arkansas,0-18,Female,NonHispanic_White,0.003468,8,2021
+Arkansas,0-18,Female,AfricanAmerican,0.00867,8,2021
+Arkansas,0-18,Female,Hispanic,0.009248000000000001,8,2021
+Arkansas,0-18,Female,Asian,0.0046240000000000005,8,2021
+Arkansas,0-18,Female,AmericanIndian,0.005490999999999999,8,2021
+Arkansas,0-18,Female,OtherPacific_Islander,0.006358,8,2021
+Arkansas,0-18,Female,TwoOrMore_Races,0.004913,8,2021
+Arkansas,19-64,Male,NonHispanic_White,0.002856,8,2021
+Arkansas,19-64,Male,AfricanAmerican,0.0071400000000000005,8,2021
+Arkansas,19-64,Male,Hispanic,0.0076159999999999995,8,2021
+Arkansas,19-64,Male,Asian,0.0038079999999999998,8,2021
+Arkansas,19-64,Male,AmericanIndian,0.004522,8,2021
+Arkansas,19-64,Male,OtherPacific_Islander,0.005236,8,2021
+Arkansas,19-64,Male,TwoOrMore_Races,0.004046,8,2021
+Arkansas,19-64,Female,NonHispanic_White,0.003468,8,2021
+Arkansas,19-64,Female,AfricanAmerican,0.00867,8,2021
+Arkansas,19-64,Female,Hispanic,0.009248000000000001,8,2021
+Arkansas,19-64,Female,Asian,0.0046240000000000005,8,2021
+Arkansas,19-64,Female,AmericanIndian,0.005490999999999999,8,2021
+Arkansas,19-64,Female,OtherPacific_Islander,0.006358,8,2021
+Arkansas,19-64,Female,TwoOrMore_Races,0.004913,8,2021
+Arkansas,65+,Male,NonHispanic_White,0.002856,8,2021
+Arkansas,65+,Male,AfricanAmerican,0.0071400000000000005,8,2021
+Arkansas,65+,Male,Hispanic,0.0076159999999999995,8,2021
+Arkansas,65+,Male,Asian,0.0038079999999999998,8,2021
+Arkansas,65+,Male,AmericanIndian,0.004522,8,2021
+Arkansas,65+,Male,OtherPacific_Islander,0.005236,8,2021
+Arkansas,65+,Male,TwoOrMore_Races,0.004046,8,2021
+Arkansas,65+,Female,NonHispanic_White,0.003468,8,2021
+Arkansas,65+,Female,AfricanAmerican,0.00867,8,2021
+Arkansas,65+,Female,Hispanic,0.009248000000000001,8,2021
+Arkansas,65+,Female,Asian,0.0046240000000000005,8,2021
+Arkansas,65+,Female,AmericanIndian,0.005490999999999999,8,2021
+Arkansas,65+,Female,OtherPacific_Islander,0.006358,8,2021
+Arkansas,65+,Female,TwoOrMore_Races,0.004913,8,2021
+California,0-18,Male,NonHispanic_White,0.0007559999999999999,8,2021
+California,0-18,Male,AfricanAmerican,0.002052,8,2021
+California,0-18,Male,Hispanic,0.001836,8,2021
+California,0-18,Male,Asian,0.0009720000000000001,8,2021
+California,0-18,Male,AmericanIndian,0.0017280000000000002,8,2021
+California,0-18,Male,OtherPacific_Islander,0.001188,8,2021
+California,0-18,Male,TwoOrMore_Races,0.001296,8,2021
+California,0-18,Female,NonHispanic_White,0.001008,8,2021
+California,0-18,Female,AfricanAmerican,0.002736,8,2021
+California,0-18,Female,Hispanic,0.002448,8,2021
+California,0-18,Female,Asian,0.001296,8,2021
+California,0-18,Female,AmericanIndian,0.002304,8,2021
+California,0-18,Female,OtherPacific_Islander,0.001584,8,2021
+California,0-18,Female,TwoOrMore_Races,0.0017280000000000002,8,2021
+California,19-64,Male,NonHispanic_White,0.0007559999999999999,8,2021
+California,19-64,Male,AfricanAmerican,0.002052,8,2021
+California,19-64,Male,Hispanic,0.001836,8,2021
+California,19-64,Male,Asian,0.0009720000000000001,8,2021
+California,19-64,Male,AmericanIndian,0.0017280000000000002,8,2021
+California,19-64,Male,OtherPacific_Islander,0.001188,8,2021
+California,19-64,Male,TwoOrMore_Races,0.001296,8,2021
+California,19-64,Female,NonHispanic_White,0.001008,8,2021
+California,19-64,Female,AfricanAmerican,0.002736,8,2021
+California,19-64,Female,Hispanic,0.002448,8,2021
+California,19-64,Female,Asian,0.001296,8,2021
+California,19-64,Female,AmericanIndian,0.002304,8,2021
+California,19-64,Female,OtherPacific_Islander,0.001584,8,2021
+California,19-64,Female,TwoOrMore_Races,0.0017280000000000002,8,2021
+California,65+,Male,NonHispanic_White,0.0007559999999999999,8,2021
+California,65+,Male,AfricanAmerican,0.002052,8,2021
+California,65+,Male,Hispanic,0.001836,8,2021
+California,65+,Male,Asian,0.0009720000000000001,8,2021
+California,65+,Male,AmericanIndian,0.0017280000000000002,8,2021
+California,65+,Male,OtherPacific_Islander,0.001188,8,2021
+California,65+,Male,TwoOrMore_Races,0.001296,8,2021
+California,65+,Female,NonHispanic_White,0.001008,8,2021
+California,65+,Female,AfricanAmerican,0.002736,8,2021
+California,65+,Female,Hispanic,0.002448,8,2021
+California,65+,Female,Asian,0.001296,8,2021
+California,65+,Female,AmericanIndian,0.002304,8,2021
+California,65+,Female,OtherPacific_Islander,0.001584,8,2021
+California,65+,Female,TwoOrMore_Races,0.0017280000000000002,8,2021
+Colorado,0-18,Male,NonHispanic_White,0.00037799999999999997,8,2021
+Colorado,0-18,Male,AfricanAmerican,0.001008,8,2021
+Colorado,0-18,Male,Hispanic,0.001008,8,2021
+Colorado,0-18,Male,Asian,0.0008820000000000001,8,2021
+Colorado,0-18,Male,AmericanIndian,0.000819,8,2021
+Colorado,0-18,Male,OtherPacific_Islander,0.000819,8,2021
+Colorado,0-18,Male,TwoOrMore_Races,0.000567,8,2021
+Colorado,0-18,Female,NonHispanic_White,0.00048600000000000005,8,2021
+Colorado,0-18,Female,AfricanAmerican,0.001296,8,2021
+Colorado,0-18,Female,Hispanic,0.001296,8,2021
+Colorado,0-18,Female,Asian,0.001134,8,2021
+Colorado,0-18,Female,AmericanIndian,0.001053,8,2021
+Colorado,0-18,Female,OtherPacific_Islander,0.001053,8,2021
+Colorado,0-18,Female,TwoOrMore_Races,0.000729,8,2021
+Colorado,19-64,Male,NonHispanic_White,0.00037799999999999997,8,2021
+Colorado,19-64,Male,AfricanAmerican,0.001008,8,2021
+Colorado,19-64,Male,Hispanic,0.001008,8,2021
+Colorado,19-64,Male,Asian,0.0008820000000000001,8,2021
+Colorado,19-64,Male,AmericanIndian,0.000819,8,2021
+Colorado,19-64,Male,OtherPacific_Islander,0.000819,8,2021
+Colorado,19-64,Male,TwoOrMore_Races,0.000567,8,2021
+Colorado,19-64,Female,NonHispanic_White,0.00048600000000000005,8,2021
+Colorado,19-64,Female,AfricanAmerican,0.001296,8,2021
+Colorado,19-64,Female,Hispanic,0.001296,8,2021
+Colorado,19-64,Female,Asian,0.001134,8,2021
+Colorado,19-64,Female,AmericanIndian,0.001053,8,2021
+Colorado,19-64,Female,OtherPacific_Islander,0.001053,8,2021
+Colorado,19-64,Female,TwoOrMore_Races,0.000729,8,2021
+Colorado,65+,Male,NonHispanic_White,0.00037799999999999997,8,2021
+Colorado,65+,Male,AfricanAmerican,0.001008,8,2021
+Colorado,65+,Male,Hispanic,0.001008,8,2021
+Colorado,65+,Male,Asian,0.0008820000000000001,8,2021
+Colorado,65+,Male,AmericanIndian,0.000819,8,2021
+Colorado,65+,Male,OtherPacific_Islander,0.000819,8,2021
+Colorado,65+,Male,TwoOrMore_Races,0.000567,8,2021
+Colorado,65+,Female,NonHispanic_White,0.00048600000000000005,8,2021
+Colorado,65+,Female,AfricanAmerican,0.001296,8,2021
+Colorado,65+,Female,Hispanic,0.001296,8,2021
+Colorado,65+,Female,Asian,0.001134,8,2021
+Colorado,65+,Female,AmericanIndian,0.001053,8,2021
+Colorado,65+,Female,OtherPacific_Islander,0.001053,8,2021
+Colorado,65+,Female,TwoOrMore_Races,0.000729,8,2021
+Connecticut,0-18,Male,NonHispanic_White,0.000192,8,2021
+Connecticut,0-18,Male,AfricanAmerican,0.000768,8,2021
+Connecticut,0-18,Male,Hispanic,0.0009599999999999999,8,2021
+Connecticut,0-18,Male,Asian,0.00023999999999999998,8,2021
+Connecticut,0-18,Male,AmericanIndian,0.0,8,2021
+Connecticut,0-18,Male,OtherPacific_Islander,0.00047999999999999996,8,2021
+Connecticut,0-18,Male,TwoOrMore_Races,0.000384,8,2021
+Connecticut,0-18,Female,NonHispanic_White,0.000256,8,2021
+Connecticut,0-18,Female,AfricanAmerican,0.001024,8,2021
+Connecticut,0-18,Female,Hispanic,0.00128,8,2021
+Connecticut,0-18,Female,Asian,0.00032,8,2021
+Connecticut,0-18,Female,AmericanIndian,0.0,8,2021
+Connecticut,0-18,Female,OtherPacific_Islander,0.00064,8,2021
+Connecticut,0-18,Female,TwoOrMore_Races,0.000512,8,2021
+Connecticut,19-64,Male,NonHispanic_White,0.000192,8,2021
+Connecticut,19-64,Male,AfricanAmerican,0.000768,8,2021
+Connecticut,19-64,Male,Hispanic,0.0009599999999999999,8,2021
+Connecticut,19-64,Male,Asian,0.00023999999999999998,8,2021
+Connecticut,19-64,Male,AmericanIndian,0.0,8,2021
+Connecticut,19-64,Male,OtherPacific_Islander,0.00047999999999999996,8,2021
+Connecticut,19-64,Male,TwoOrMore_Races,0.000384,8,2021
+Connecticut,19-64,Female,NonHispanic_White,0.000256,8,2021
+Connecticut,19-64,Female,AfricanAmerican,0.001024,8,2021
+Connecticut,19-64,Female,Hispanic,0.00128,8,2021
+Connecticut,19-64,Female,Asian,0.00032,8,2021
+Connecticut,19-64,Female,AmericanIndian,0.0,8,2021
+Connecticut,19-64,Female,OtherPacific_Islander,0.00064,8,2021
+Connecticut,19-64,Female,TwoOrMore_Races,0.000512,8,2021
+Connecticut,65+,Male,NonHispanic_White,0.000192,8,2021
+Connecticut,65+,Male,AfricanAmerican,0.000768,8,2021
+Connecticut,65+,Male,Hispanic,0.0009599999999999999,8,2021
+Connecticut,65+,Male,Asian,0.00023999999999999998,8,2021
+Connecticut,65+,Male,AmericanIndian,0.0,8,2021
+Connecticut,65+,Male,OtherPacific_Islander,0.00047999999999999996,8,2021
+Connecticut,65+,Male,TwoOrMore_Races,0.000384,8,2021
+Connecticut,65+,Female,NonHispanic_White,0.000256,8,2021
+Connecticut,65+,Female,AfricanAmerican,0.001024,8,2021
+Connecticut,65+,Female,Hispanic,0.00128,8,2021
+Connecticut,65+,Female,Asian,0.00032,8,2021
+Connecticut,65+,Female,AmericanIndian,0.0,8,2021
+Connecticut,65+,Female,OtherPacific_Islander,0.00064,8,2021
+Connecticut,65+,Female,TwoOrMore_Races,0.000512,8,2021
+Delaware,0-18,Male,NonHispanic_White,0.00044,8,2021
+Delaware,0-18,Male,AfricanAmerican,0.001848,8,2021
+Delaware,0-18,Male,Hispanic,0.002288,8,2021
+Delaware,0-18,Male,Asian,0.0,8,2021
+Delaware,0-18,Male,AmericanIndian,0.0,8,2021
+Delaware,0-18,Male,OtherPacific_Islander,0.00176,8,2021
+Delaware,0-18,Male,TwoOrMore_Races,0.000968,8,2021
+Delaware,0-18,Female,NonHispanic_White,0.000605,8,2021
+Delaware,0-18,Female,AfricanAmerican,0.002541,8,2021
+Delaware,0-18,Female,Hispanic,0.003146,8,2021
+Delaware,0-18,Female,Asian,0.0,8,2021
+Delaware,0-18,Female,AmericanIndian,0.0,8,2021
+Delaware,0-18,Female,OtherPacific_Islander,0.00242,8,2021
+Delaware,0-18,Female,TwoOrMore_Races,0.0013310000000000002,8,2021
+Delaware,19-64,Male,NonHispanic_White,0.00044,8,2021
+Delaware,19-64,Male,AfricanAmerican,0.001848,8,2021
+Delaware,19-64,Male,Hispanic,0.002288,8,2021
+Delaware,19-64,Male,Asian,0.0,8,2021
+Delaware,19-64,Male,AmericanIndian,0.0,8,2021
+Delaware,19-64,Male,OtherPacific_Islander,0.00176,8,2021
+Delaware,19-64,Male,TwoOrMore_Races,0.000968,8,2021
+Delaware,19-64,Female,NonHispanic_White,0.000605,8,2021
+Delaware,19-64,Female,AfricanAmerican,0.002541,8,2021
+Delaware,19-64,Female,Hispanic,0.003146,8,2021
+Delaware,19-64,Female,Asian,0.0,8,2021
+Delaware,19-64,Female,AmericanIndian,0.0,8,2021
+Delaware,19-64,Female,OtherPacific_Islander,0.00242,8,2021
+Delaware,19-64,Female,TwoOrMore_Races,0.0013310000000000002,8,2021
+Delaware,65+,Male,NonHispanic_White,0.00044,8,2021
+Delaware,65+,Male,AfricanAmerican,0.001848,8,2021
+Delaware,65+,Male,Hispanic,0.002288,8,2021
+Delaware,65+,Male,Asian,0.0,8,2021
+Delaware,65+,Male,AmericanIndian,0.0,8,2021
+Delaware,65+,Male,OtherPacific_Islander,0.00176,8,2021
+Delaware,65+,Male,TwoOrMore_Races,0.000968,8,2021
+Delaware,65+,Female,NonHispanic_White,0.000605,8,2021
+Delaware,65+,Female,AfricanAmerican,0.002541,8,2021
+Delaware,65+,Female,Hispanic,0.003146,8,2021
+Delaware,65+,Female,Asian,0.0,8,2021
+Delaware,65+,Female,AmericanIndian,0.0,8,2021
+Delaware,65+,Female,OtherPacific_Islander,0.00242,8,2021
+Delaware,65+,Female,TwoOrMore_Races,0.0013310000000000002,8,2021
+District of Columbia,0-18,Male,NonHispanic_White,0.0005200000000000001,8,2021
+District of Columbia,0-18,Male,AfricanAmerican,0.0027300000000000002,8,2021
+District of Columbia,0-18,Male,Hispanic,0.0010400000000000001,8,2021
+District of Columbia,0-18,Male,Asian,0.0013,8,2021
+District of Columbia,0-18,Male,AmericanIndian,0.0,8,2021
+District of Columbia,0-18,Male,OtherPacific_Islander,0.0,8,2021
+District of Columbia,0-18,Male,TwoOrMore_Races,0.0016899999999999999,8,2021
+District of Columbia,0-18,Female,NonHispanic_White,0.000572,8,2021
+District of Columbia,0-18,Female,AfricanAmerican,0.003003,8,2021
+District of Columbia,0-18,Female,Hispanic,0.001144,8,2021
+District of Columbia,0-18,Female,Asian,0.00143,8,2021
+District of Columbia,0-18,Female,AmericanIndian,0.0,8,2021
+District of Columbia,0-18,Female,OtherPacific_Islander,0.0,8,2021
+District of Columbia,0-18,Female,TwoOrMore_Races,0.001859,8,2021
+District of Columbia,19-64,Male,NonHispanic_White,0.0005200000000000001,8,2021
+District of Columbia,19-64,Male,AfricanAmerican,0.0027300000000000002,8,2021
+District of Columbia,19-64,Male,Hispanic,0.0010400000000000001,8,2021
+District of Columbia,19-64,Male,Asian,0.0013,8,2021
+District of Columbia,19-64,Male,AmericanIndian,0.0,8,2021
+District of Columbia,19-64,Male,OtherPacific_Islander,0.0,8,2021
+District of Columbia,19-64,Male,TwoOrMore_Races,0.0016899999999999999,8,2021
+District of Columbia,19-64,Female,NonHispanic_White,0.000572,8,2021
+District of Columbia,19-64,Female,AfricanAmerican,0.003003,8,2021
+District of Columbia,19-64,Female,Hispanic,0.001144,8,2021
+District of Columbia,19-64,Female,Asian,0.00143,8,2021
+District of Columbia,19-64,Female,AmericanIndian,0.0,8,2021
+District of Columbia,19-64,Female,OtherPacific_Islander,0.0,8,2021
+District of Columbia,19-64,Female,TwoOrMore_Races,0.001859,8,2021
+District of Columbia,65+,Male,NonHispanic_White,0.0005200000000000001,8,2021
+District of Columbia,65+,Male,AfricanAmerican,0.0027300000000000002,8,2021
+District of Columbia,65+,Male,Hispanic,0.0010400000000000001,8,2021
+District of Columbia,65+,Male,Asian,0.0013,8,2021
+District of Columbia,65+,Male,AmericanIndian,0.0,8,2021
+District of Columbia,65+,Male,OtherPacific_Islander,0.0,8,2021
+District of Columbia,65+,Male,TwoOrMore_Races,0.0016899999999999999,8,2021
+District of Columbia,65+,Female,NonHispanic_White,0.000572,8,2021
+District of Columbia,65+,Female,AfricanAmerican,0.003003,8,2021
+District of Columbia,65+,Female,Hispanic,0.001144,8,2021
+District of Columbia,65+,Female,Asian,0.00143,8,2021
+District of Columbia,65+,Female,AmericanIndian,0.0,8,2021
+District of Columbia,65+,Female,OtherPacific_Islander,0.0,8,2021
+District of Columbia,65+,Female,TwoOrMore_Races,0.001859,8,2021
+Florida,0-18,Male,NonHispanic_White,0.00117,8,2021
+Florida,0-18,Male,AfricanAmerican,0.00286,8,2021
+Florida,0-18,Male,Hispanic,0.00221,8,2021
+Florida,0-18,Male,Asian,0.0013,8,2021
+Florida,0-18,Male,AmericanIndian,0.00156,8,2021
+Florida,0-18,Male,OtherPacific_Islander,0.0016899999999999999,8,2021
+Florida,0-18,Male,TwoOrMore_Races,0.0016899999999999999,8,2021
+Florida,0-18,Female,NonHispanic_White,0.001521,8,2021
+Florida,0-18,Female,AfricanAmerican,0.003718,8,2021
+Florida,0-18,Female,Hispanic,0.002873,8,2021
+Florida,0-18,Female,Asian,0.0016899999999999999,8,2021
+Florida,0-18,Female,AmericanIndian,0.0020280000000000003,8,2021
+Florida,0-18,Female,OtherPacific_Islander,0.0021969999999999997,8,2021
+Florida,0-18,Female,TwoOrMore_Races,0.0021969999999999997,8,2021
+Florida,19-64,Male,NonHispanic_White,0.00117,8,2021
+Florida,19-64,Male,AfricanAmerican,0.00286,8,2021
+Florida,19-64,Male,Hispanic,0.00221,8,2021
+Florida,19-64,Male,Asian,0.0013,8,2021
+Florida,19-64,Male,AmericanIndian,0.00156,8,2021
+Florida,19-64,Male,OtherPacific_Islander,0.0016899999999999999,8,2021
+Florida,19-64,Male,TwoOrMore_Races,0.0016899999999999999,8,2021
+Florida,19-64,Female,NonHispanic_White,0.001521,8,2021
+Florida,19-64,Female,AfricanAmerican,0.003718,8,2021
+Florida,19-64,Female,Hispanic,0.002873,8,2021
+Florida,19-64,Female,Asian,0.0016899999999999999,8,2021
+Florida,19-64,Female,AmericanIndian,0.0020280000000000003,8,2021
+Florida,19-64,Female,OtherPacific_Islander,0.0021969999999999997,8,2021
+Florida,19-64,Female,TwoOrMore_Races,0.0021969999999999997,8,2021
+Florida,65+,Male,NonHispanic_White,0.00117,8,2021
+Florida,65+,Male,AfricanAmerican,0.00286,8,2021
+Florida,65+,Male,Hispanic,0.00221,8,2021
+Florida,65+,Male,Asian,0.0013,8,2021
+Florida,65+,Male,AmericanIndian,0.00156,8,2021
+Florida,65+,Male,OtherPacific_Islander,0.0016899999999999999,8,2021
+Florida,65+,Male,TwoOrMore_Races,0.0016899999999999999,8,2021
+Florida,65+,Female,NonHispanic_White,0.001521,8,2021
+Florida,65+,Female,AfricanAmerican,0.003718,8,2021
+Florida,65+,Female,Hispanic,0.002873,8,2021
+Florida,65+,Female,Asian,0.0016899999999999999,8,2021
+Florida,65+,Female,AmericanIndian,0.0020280000000000003,8,2021
+Florida,65+,Female,OtherPacific_Islander,0.0021969999999999997,8,2021
+Florida,65+,Female,TwoOrMore_Races,0.0021969999999999997,8,2021
+Georgia,0-18,Male,NonHispanic_White,0.001485,8,2021
+Georgia,0-18,Male,AfricanAmerican,0.0036299999999999995,8,2021
+Georgia,0-18,Male,Hispanic,0.00396,8,2021
+Georgia,0-18,Male,Asian,0.001485,8,2021
+Georgia,0-18,Male,AmericanIndian,0.00396,8,2021
+Georgia,0-18,Male,OtherPacific_Islander,0.002805,8,2021
+Georgia,0-18,Male,TwoOrMore_Races,0.002475,8,2021
+Georgia,0-18,Female,NonHispanic_White,0.0018899999999999998,8,2021
+Georgia,0-18,Female,AfricanAmerican,0.00462,8,2021
+Georgia,0-18,Female,Hispanic,0.00504,8,2021
+Georgia,0-18,Female,Asian,0.0018899999999999998,8,2021
+Georgia,0-18,Female,AmericanIndian,0.00504,8,2021
+Georgia,0-18,Female,OtherPacific_Islander,0.0035700000000000003,8,2021
+Georgia,0-18,Female,TwoOrMore_Races,0.00315,8,2021
+Georgia,19-64,Male,NonHispanic_White,0.001485,8,2021
+Georgia,19-64,Male,AfricanAmerican,0.0036299999999999995,8,2021
+Georgia,19-64,Male,Hispanic,0.00396,8,2021
+Georgia,19-64,Male,Asian,0.001485,8,2021
+Georgia,19-64,Male,AmericanIndian,0.00396,8,2021
+Georgia,19-64,Male,OtherPacific_Islander,0.002805,8,2021
+Georgia,19-64,Male,TwoOrMore_Races,0.002475,8,2021
+Georgia,19-64,Female,NonHispanic_White,0.0018899999999999998,8,2021
+Georgia,19-64,Female,AfricanAmerican,0.00462,8,2021
+Georgia,19-64,Female,Hispanic,0.00504,8,2021
+Georgia,19-64,Female,Asian,0.0018899999999999998,8,2021
+Georgia,19-64,Female,AmericanIndian,0.00504,8,2021
+Georgia,19-64,Female,OtherPacific_Islander,0.0035700000000000003,8,2021
+Georgia,19-64,Female,TwoOrMore_Races,0.00315,8,2021
+Georgia,65+,Male,NonHispanic_White,0.001485,8,2021
+Georgia,65+,Male,AfricanAmerican,0.0036299999999999995,8,2021
+Georgia,65+,Male,Hispanic,0.00396,8,2021
+Georgia,65+,Male,Asian,0.001485,8,2021
+Georgia,65+,Male,AmericanIndian,0.00396,8,2021
+Georgia,65+,Male,OtherPacific_Islander,0.002805,8,2021
+Georgia,65+,Male,TwoOrMore_Races,0.002475,8,2021
+Georgia,65+,Female,NonHispanic_White,0.0018899999999999998,8,2021
+Georgia,65+,Female,AfricanAmerican,0.00462,8,2021
+Georgia,65+,Female,Hispanic,0.00504,8,2021
+Georgia,65+,Female,Asian,0.0018899999999999998,8,2021
+Georgia,65+,Female,AmericanIndian,0.00504,8,2021
+Georgia,65+,Female,OtherPacific_Islander,0.0035700000000000003,8,2021
+Georgia,65+,Female,TwoOrMore_Races,0.00315,8,2021
+Hawaii,0-18,Male,NonHispanic_White,0.00023999999999999998,8,2021
+Hawaii,0-18,Male,AfricanAmerican,0.0,8,2021
+Hawaii,0-18,Male,Hispanic,0.000624,8,2021
+Hawaii,0-18,Male,Asian,0.000384,8,2021
+Hawaii,0-18,Male,AmericanIndian,0.0,8,2021
+Hawaii,0-18,Male,OtherPacific_Islander,0.000336,8,2021
+Hawaii,0-18,Male,TwoOrMore_Races,0.000384,8,2021
+Hawaii,0-18,Female,NonHispanic_White,0.00028,8,2021
+Hawaii,0-18,Female,AfricanAmerican,0.0,8,2021
+Hawaii,0-18,Female,Hispanic,0.000728,8,2021
+Hawaii,0-18,Female,Asian,0.00044800000000000005,8,2021
+Hawaii,0-18,Female,AmericanIndian,0.0,8,2021
+Hawaii,0-18,Female,OtherPacific_Islander,0.000392,8,2021
+Hawaii,0-18,Female,TwoOrMore_Races,0.00044800000000000005,8,2021
+Hawaii,19-64,Male,NonHispanic_White,0.00023999999999999998,8,2021
+Hawaii,19-64,Male,AfricanAmerican,0.0,8,2021
+Hawaii,19-64,Male,Hispanic,0.000624,8,2021
+Hawaii,19-64,Male,Asian,0.000384,8,2021
+Hawaii,19-64,Male,AmericanIndian,0.0,8,2021
+Hawaii,19-64,Male,OtherPacific_Islander,0.000336,8,2021
+Hawaii,19-64,Male,TwoOrMore_Races,0.000384,8,2021
+Hawaii,19-64,Female,NonHispanic_White,0.00028,8,2021
+Hawaii,19-64,Female,AfricanAmerican,0.0,8,2021
+Hawaii,19-64,Female,Hispanic,0.000728,8,2021
+Hawaii,19-64,Female,Asian,0.00044800000000000005,8,2021
+Hawaii,19-64,Female,AmericanIndian,0.0,8,2021
+Hawaii,19-64,Female,OtherPacific_Islander,0.000392,8,2021
+Hawaii,19-64,Female,TwoOrMore_Races,0.00044800000000000005,8,2021
+Hawaii,65+,Male,NonHispanic_White,0.00023999999999999998,8,2021
+Hawaii,65+,Male,AfricanAmerican,0.0,8,2021
+Hawaii,65+,Male,Hispanic,0.000624,8,2021
+Hawaii,65+,Male,Asian,0.000384,8,2021
+Hawaii,65+,Male,AmericanIndian,0.0,8,2021
+Hawaii,65+,Male,OtherPacific_Islander,0.000336,8,2021
+Hawaii,65+,Male,TwoOrMore_Races,0.000384,8,2021
+Hawaii,65+,Female,NonHispanic_White,0.00028,8,2021
+Hawaii,65+,Female,AfricanAmerican,0.0,8,2021
+Hawaii,65+,Female,Hispanic,0.000728,8,2021
+Hawaii,65+,Female,Asian,0.00044800000000000005,8,2021
+Hawaii,65+,Female,AmericanIndian,0.0,8,2021
+Hawaii,65+,Female,OtherPacific_Islander,0.000392,8,2021
+Hawaii,65+,Female,TwoOrMore_Races,0.00044800000000000005,8,2021
+Idaho,0-18,Male,NonHispanic_White,0.0012,8,2021
+Idaho,0-18,Male,AfricanAmerican,0.0,8,2021
+Idaho,0-18,Male,Hispanic,0.00216,8,2021
+Idaho,0-18,Male,Asian,0.0,8,2021
+Idaho,0-18,Male,AmericanIndian,0.0024,8,2021
+Idaho,0-18,Male,OtherPacific_Islander,0.0018,8,2021
+Idaho,0-18,Male,TwoOrMore_Races,0.00144,8,2021
+Idaho,0-18,Female,NonHispanic_White,0.00156,8,2021
+Idaho,0-18,Female,AfricanAmerican,0.0,8,2021
+Idaho,0-18,Female,Hispanic,0.0028079999999999997,8,2021
+Idaho,0-18,Female,Asian,0.0,8,2021
+Idaho,0-18,Female,AmericanIndian,0.00312,8,2021
+Idaho,0-18,Female,OtherPacific_Islander,0.00234,8,2021
+Idaho,0-18,Female,TwoOrMore_Races,0.001872,8,2021
+Idaho,19-64,Male,NonHispanic_White,0.0012,8,2021
+Idaho,19-64,Male,AfricanAmerican,0.0,8,2021
+Idaho,19-64,Male,Hispanic,0.00216,8,2021
+Idaho,19-64,Male,Asian,0.0,8,2021
+Idaho,19-64,Male,AmericanIndian,0.0024,8,2021
+Idaho,19-64,Male,OtherPacific_Islander,0.0018,8,2021
+Idaho,19-64,Male,TwoOrMore_Races,0.00144,8,2021
+Idaho,19-64,Female,NonHispanic_White,0.00156,8,2021
+Idaho,19-64,Female,AfricanAmerican,0.0,8,2021
+Idaho,19-64,Female,Hispanic,0.0028079999999999997,8,2021
+Idaho,19-64,Female,Asian,0.0,8,2021
+Idaho,19-64,Female,AmericanIndian,0.00312,8,2021
+Idaho,19-64,Female,OtherPacific_Islander,0.00234,8,2021
+Idaho,19-64,Female,TwoOrMore_Races,0.001872,8,2021
+Idaho,65+,Male,NonHispanic_White,0.0012,8,2021
+Idaho,65+,Male,AfricanAmerican,0.0,8,2021
+Idaho,65+,Male,Hispanic,0.00216,8,2021
+Idaho,65+,Male,Asian,0.0,8,2021
+Idaho,65+,Male,AmericanIndian,0.0024,8,2021
+Idaho,65+,Male,OtherPacific_Islander,0.0018,8,2021
+Idaho,65+,Male,TwoOrMore_Races,0.00144,8,2021
+Idaho,65+,Female,NonHispanic_White,0.00156,8,2021
+Idaho,65+,Female,AfricanAmerican,0.0,8,2021
+Idaho,65+,Female,Hispanic,0.0028079999999999997,8,2021
+Idaho,65+,Female,Asian,0.0,8,2021
+Idaho,65+,Female,AmericanIndian,0.00312,8,2021
+Idaho,65+,Female,OtherPacific_Islander,0.00234,8,2021
+Idaho,65+,Female,TwoOrMore_Races,0.001872,8,2021
+Illinois,0-18,Male,NonHispanic_White,0.0007559999999999999,8,2021
+Illinois,0-18,Male,AfricanAmerican,0.0028079999999999997,8,2021
+Illinois,0-18,Male,Hispanic,0.0017280000000000002,8,2021
+Illinois,0-18,Male,Asian,0.00108,8,2021
+Illinois,0-18,Male,AmericanIndian,0.0,8,2021
+Illinois,0-18,Male,OtherPacific_Islander,0.00162,8,2021
+Illinois,0-18,Male,TwoOrMore_Races,0.001296,8,2021
+Illinois,0-18,Female,NonHispanic_White,0.001008,8,2021
+Illinois,0-18,Female,AfricanAmerican,0.003744,8,2021
+Illinois,0-18,Female,Hispanic,0.002304,8,2021
+Illinois,0-18,Female,Asian,0.00144,8,2021
+Illinois,0-18,Female,AmericanIndian,0.0,8,2021
+Illinois,0-18,Female,OtherPacific_Islander,0.00216,8,2021
+Illinois,0-18,Female,TwoOrMore_Races,0.0017280000000000002,8,2021
+Illinois,19-64,Male,NonHispanic_White,0.0007559999999999999,8,2021
+Illinois,19-64,Male,AfricanAmerican,0.0028079999999999997,8,2021
+Illinois,19-64,Male,Hispanic,0.0017280000000000002,8,2021
+Illinois,19-64,Male,Asian,0.00108,8,2021
+Illinois,19-64,Male,AmericanIndian,0.0,8,2021
+Illinois,19-64,Male,OtherPacific_Islander,0.00162,8,2021
+Illinois,19-64,Male,TwoOrMore_Races,0.001296,8,2021
+Illinois,19-64,Female,NonHispanic_White,0.001008,8,2021
+Illinois,19-64,Female,AfricanAmerican,0.003744,8,2021
+Illinois,19-64,Female,Hispanic,0.002304,8,2021
+Illinois,19-64,Female,Asian,0.00144,8,2021
+Illinois,19-64,Female,AmericanIndian,0.0,8,2021
+Illinois,19-64,Female,OtherPacific_Islander,0.00216,8,2021
+Illinois,19-64,Female,TwoOrMore_Races,0.0017280000000000002,8,2021
+Illinois,65+,Male,NonHispanic_White,0.0007559999999999999,8,2021
+Illinois,65+,Male,AfricanAmerican,0.0028079999999999997,8,2021
+Illinois,65+,Male,Hispanic,0.0017280000000000002,8,2021
+Illinois,65+,Male,Asian,0.00108,8,2021
+Illinois,65+,Male,AmericanIndian,0.0,8,2021
+Illinois,65+,Male,OtherPacific_Islander,0.00162,8,2021
+Illinois,65+,Male,TwoOrMore_Races,0.001296,8,2021
+Illinois,65+,Female,NonHispanic_White,0.001008,8,2021
+Illinois,65+,Female,AfricanAmerican,0.003744,8,2021
+Illinois,65+,Female,Hispanic,0.002304,8,2021
+Illinois,65+,Female,Asian,0.00144,8,2021
+Illinois,65+,Female,AmericanIndian,0.0,8,2021
+Illinois,65+,Female,OtherPacific_Islander,0.00216,8,2021
+Illinois,65+,Female,TwoOrMore_Races,0.0017280000000000002,8,2021
+Indiana,0-18,Male,NonHispanic_White,0.0009720000000000001,8,2021
+Indiana,0-18,Male,AfricanAmerican,0.0028079999999999997,8,2021
+Indiana,0-18,Male,Hispanic,0.002376,8,2021
+Indiana,0-18,Male,Asian,0.0017280000000000002,8,2021
+Indiana,0-18,Male,AmericanIndian,0.00216,8,2021
+Indiana,0-18,Male,OtherPacific_Islander,0.002484,8,2021
+Indiana,0-18,Male,TwoOrMore_Races,0.001296,8,2021
+Indiana,0-18,Female,NonHispanic_White,0.0014039999999999999,8,2021
+Indiana,0-18,Female,AfricanAmerican,0.004056000000000001,8,2021
+Indiana,0-18,Female,Hispanic,0.003432,8,2021
+Indiana,0-18,Female,Asian,0.002496,8,2021
+Indiana,0-18,Female,AmericanIndian,0.00312,8,2021
+Indiana,0-18,Female,OtherPacific_Islander,0.003588,8,2021
+Indiana,0-18,Female,TwoOrMore_Races,0.001872,8,2021
+Indiana,19-64,Male,NonHispanic_White,0.0009720000000000001,8,2021
+Indiana,19-64,Male,AfricanAmerican,0.0028079999999999997,8,2021
+Indiana,19-64,Male,Hispanic,0.002376,8,2021
+Indiana,19-64,Male,Asian,0.0017280000000000002,8,2021
+Indiana,19-64,Male,AmericanIndian,0.00216,8,2021
+Indiana,19-64,Male,OtherPacific_Islander,0.002484,8,2021
+Indiana,19-64,Male,TwoOrMore_Races,0.001296,8,2021
+Indiana,19-64,Female,NonHispanic_White,0.0014039999999999999,8,2021
+Indiana,19-64,Female,AfricanAmerican,0.004056000000000001,8,2021
+Indiana,19-64,Female,Hispanic,0.003432,8,2021
+Indiana,19-64,Female,Asian,0.002496,8,2021
+Indiana,19-64,Female,AmericanIndian,0.00312,8,2021
+Indiana,19-64,Female,OtherPacific_Islander,0.003588,8,2021
+Indiana,19-64,Female,TwoOrMore_Races,0.001872,8,2021
+Indiana,65+,Male,NonHispanic_White,0.0009720000000000001,8,2021
+Indiana,65+,Male,AfricanAmerican,0.0028079999999999997,8,2021
+Indiana,65+,Male,Hispanic,0.002376,8,2021
+Indiana,65+,Male,Asian,0.0017280000000000002,8,2021
+Indiana,65+,Male,AmericanIndian,0.00216,8,2021
+Indiana,65+,Male,OtherPacific_Islander,0.002484,8,2021
+Indiana,65+,Male,TwoOrMore_Races,0.001296,8,2021
+Indiana,65+,Female,NonHispanic_White,0.0014039999999999999,8,2021
+Indiana,65+,Female,AfricanAmerican,0.004056000000000001,8,2021
+Indiana,65+,Female,Hispanic,0.003432,8,2021
+Indiana,65+,Female,Asian,0.002496,8,2021
+Indiana,65+,Female,AmericanIndian,0.00312,8,2021
+Indiana,65+,Female,OtherPacific_Islander,0.003588,8,2021
+Indiana,65+,Female,TwoOrMore_Races,0.001872,8,2021
+Iowa,0-18,Male,NonHispanic_White,0.00064,8,2021
+Iowa,0-18,Male,AfricanAmerican,0.0024,8,2021
+Iowa,0-18,Male,Hispanic,0.0020800000000000003,8,2021
+Iowa,0-18,Male,Asian,0.00168,8,2021
+Iowa,0-18,Male,AmericanIndian,0.0018399999999999998,8,2021
+Iowa,0-18,Male,OtherPacific_Islander,0.00088,8,2021
+Iowa,0-18,Male,TwoOrMore_Races,0.0008,8,2021
+Iowa,0-18,Female,NonHispanic_White,0.00088,8,2021
+Iowa,0-18,Female,AfricanAmerican,0.0033,8,2021
+Iowa,0-18,Female,Hispanic,0.00286,8,2021
+Iowa,0-18,Female,Asian,0.00231,8,2021
+Iowa,0-18,Female,AmericanIndian,0.00253,8,2021
+Iowa,0-18,Female,OtherPacific_Islander,0.00121,8,2021
+Iowa,0-18,Female,TwoOrMore_Races,0.0011,8,2021
+Iowa,19-64,Male,NonHispanic_White,0.00064,8,2021
+Iowa,19-64,Male,AfricanAmerican,0.0024,8,2021
+Iowa,19-64,Male,Hispanic,0.0020800000000000003,8,2021
+Iowa,19-64,Male,Asian,0.00168,8,2021
+Iowa,19-64,Male,AmericanIndian,0.0018399999999999998,8,2021
+Iowa,19-64,Male,OtherPacific_Islander,0.00088,8,2021
+Iowa,19-64,Male,TwoOrMore_Races,0.0008,8,2021
+Iowa,19-64,Female,NonHispanic_White,0.00088,8,2021
+Iowa,19-64,Female,AfricanAmerican,0.0033,8,2021
+Iowa,19-64,Female,Hispanic,0.00286,8,2021
+Iowa,19-64,Female,Asian,0.00231,8,2021
+Iowa,19-64,Female,AmericanIndian,0.00253,8,2021
+Iowa,19-64,Female,OtherPacific_Islander,0.00121,8,2021
+Iowa,19-64,Female,TwoOrMore_Races,0.0011,8,2021
+Iowa,65+,Male,NonHispanic_White,0.00064,8,2021
+Iowa,65+,Male,AfricanAmerican,0.0024,8,2021
+Iowa,65+,Male,Hispanic,0.0020800000000000003,8,2021
+Iowa,65+,Male,Asian,0.00168,8,2021
+Iowa,65+,Male,AmericanIndian,0.0018399999999999998,8,2021
+Iowa,65+,Male,OtherPacific_Islander,0.00088,8,2021
+Iowa,65+,Male,TwoOrMore_Races,0.0008,8,2021
+Iowa,65+,Female,NonHispanic_White,0.00088,8,2021
+Iowa,65+,Female,AfricanAmerican,0.0033,8,2021
+Iowa,65+,Female,Hispanic,0.00286,8,2021
+Iowa,65+,Female,Asian,0.00231,8,2021
+Iowa,65+,Female,AmericanIndian,0.00253,8,2021
+Iowa,65+,Female,OtherPacific_Islander,0.00121,8,2021
+Iowa,65+,Female,TwoOrMore_Races,0.0011,8,2021
+Kansas,0-18,Male,NonHispanic_White,0.00064,8,2021
+Kansas,0-18,Male,AfricanAmerican,0.0019199999999999998,8,2021
+Kansas,0-18,Male,Hispanic,0.0013599999999999999,8,2021
+Kansas,0-18,Male,Asian,0.0008,8,2021
+Kansas,0-18,Male,AmericanIndian,0.00144,8,2021
+Kansas,0-18,Male,OtherPacific_Islander,0.0016,8,2021
+Kansas,0-18,Male,TwoOrMore_Races,0.0008,8,2021
+Kansas,0-18,Female,NonHispanic_White,0.0008,8,2021
+Kansas,0-18,Female,AfricanAmerican,0.0024,8,2021
+Kansas,0-18,Female,Hispanic,0.0017,8,2021
+Kansas,0-18,Female,Asian,0.001,8,2021
+Kansas,0-18,Female,AmericanIndian,0.0018,8,2021
+Kansas,0-18,Female,OtherPacific_Islander,0.002,8,2021
+Kansas,0-18,Female,TwoOrMore_Races,0.001,8,2021
+Kansas,19-64,Male,NonHispanic_White,0.00064,8,2021
+Kansas,19-64,Male,AfricanAmerican,0.0019199999999999998,8,2021
+Kansas,19-64,Male,Hispanic,0.0013599999999999999,8,2021
+Kansas,19-64,Male,Asian,0.0008,8,2021
+Kansas,19-64,Male,AmericanIndian,0.00144,8,2021
+Kansas,19-64,Male,OtherPacific_Islander,0.0016,8,2021
+Kansas,19-64,Male,TwoOrMore_Races,0.0008,8,2021
+Kansas,19-64,Female,NonHispanic_White,0.0008,8,2021
+Kansas,19-64,Female,AfricanAmerican,0.0024,8,2021
+Kansas,19-64,Female,Hispanic,0.0017,8,2021
+Kansas,19-64,Female,Asian,0.001,8,2021
+Kansas,19-64,Female,AmericanIndian,0.0018,8,2021
+Kansas,19-64,Female,OtherPacific_Islander,0.002,8,2021
+Kansas,19-64,Female,TwoOrMore_Races,0.001,8,2021
+Kansas,65+,Male,NonHispanic_White,0.00064,8,2021
+Kansas,65+,Male,AfricanAmerican,0.0019199999999999998,8,2021
+Kansas,65+,Male,Hispanic,0.0013599999999999999,8,2021
+Kansas,65+,Male,Asian,0.0008,8,2021
+Kansas,65+,Male,AmericanIndian,0.00144,8,2021
+Kansas,65+,Male,OtherPacific_Islander,0.0016,8,2021
+Kansas,65+,Male,TwoOrMore_Races,0.0008,8,2021
+Kansas,65+,Female,NonHispanic_White,0.0008,8,2021
+Kansas,65+,Female,AfricanAmerican,0.0024,8,2021
+Kansas,65+,Female,Hispanic,0.0017,8,2021
+Kansas,65+,Female,Asian,0.001,8,2021
+Kansas,65+,Female,AmericanIndian,0.0018,8,2021
+Kansas,65+,Female,OtherPacific_Islander,0.002,8,2021
+Kansas,65+,Female,TwoOrMore_Races,0.001,8,2021
+Kentucky,0-18,Male,NonHispanic_White,0.002912,8,2021
+Kentucky,0-18,Male,AfricanAmerican,0.0056159999999999995,8,2021
+Kentucky,0-18,Male,Hispanic,0.0052,8,2021
+Kentucky,0-18,Male,Asian,0.002912,8,2021
+Kentucky,0-18,Male,AmericanIndian,0.0,8,2021
+Kentucky,0-18,Male,OtherPacific_Islander,0.0052,8,2021
+Kentucky,0-18,Male,TwoOrMore_Races,0.0033280000000000002,8,2021
+Kentucky,0-18,Female,NonHispanic_White,0.0035840000000000004,8,2021
+Kentucky,0-18,Female,AfricanAmerican,0.006912000000000001,8,2021
+Kentucky,0-18,Female,Hispanic,0.0064,8,2021
+Kentucky,0-18,Female,Asian,0.0035840000000000004,8,2021
+Kentucky,0-18,Female,AmericanIndian,0.0,8,2021
+Kentucky,0-18,Female,OtherPacific_Islander,0.0064,8,2021
+Kentucky,0-18,Female,TwoOrMore_Races,0.004096,8,2021
+Kentucky,19-64,Male,NonHispanic_White,0.002912,8,2021
+Kentucky,19-64,Male,AfricanAmerican,0.0056159999999999995,8,2021
+Kentucky,19-64,Male,Hispanic,0.0052,8,2021
+Kentucky,19-64,Male,Asian,0.002912,8,2021
+Kentucky,19-64,Male,AmericanIndian,0.0,8,2021
+Kentucky,19-64,Male,OtherPacific_Islander,0.0052,8,2021
+Kentucky,19-64,Male,TwoOrMore_Races,0.0033280000000000002,8,2021
+Kentucky,19-64,Female,NonHispanic_White,0.0035840000000000004,8,2021
+Kentucky,19-64,Female,AfricanAmerican,0.006912000000000001,8,2021
+Kentucky,19-64,Female,Hispanic,0.0064,8,2021
+Kentucky,19-64,Female,Asian,0.0035840000000000004,8,2021
+Kentucky,19-64,Female,AmericanIndian,0.0,8,2021
+Kentucky,19-64,Female,OtherPacific_Islander,0.0064,8,2021
+Kentucky,19-64,Female,TwoOrMore_Races,0.004096,8,2021
+Kentucky,65+,Male,NonHispanic_White,0.002912,8,2021
+Kentucky,65+,Male,AfricanAmerican,0.0056159999999999995,8,2021
+Kentucky,65+,Male,Hispanic,0.0052,8,2021
+Kentucky,65+,Male,Asian,0.002912,8,2021
+Kentucky,65+,Male,AmericanIndian,0.0,8,2021
+Kentucky,65+,Male,OtherPacific_Islander,0.0052,8,2021
+Kentucky,65+,Male,TwoOrMore_Races,0.0033280000000000002,8,2021
+Kentucky,65+,Female,NonHispanic_White,0.0035840000000000004,8,2021
+Kentucky,65+,Female,AfricanAmerican,0.006912000000000001,8,2021
+Kentucky,65+,Female,Hispanic,0.0064,8,2021
+Kentucky,65+,Female,Asian,0.0035840000000000004,8,2021
+Kentucky,65+,Female,AmericanIndian,0.0,8,2021
+Kentucky,65+,Female,OtherPacific_Islander,0.0064,8,2021
+Kentucky,65+,Female,TwoOrMore_Races,0.004096,8,2021
+Louisiana,0-18,Male,NonHispanic_White,0.0020399999999999997,8,2021
+Louisiana,0-18,Male,AfricanAmerican,0.005915999999999999,8,2021
+Louisiana,0-18,Male,Hispanic,0.003264,8,2021
+Louisiana,0-18,Male,Asian,0.002448,8,2021
+Louisiana,0-18,Male,AmericanIndian,0.003672,8,2021
+Louisiana,0-18,Male,OtherPacific_Islander,0.0030600000000000002,8,2021
+Louisiana,0-18,Male,TwoOrMore_Races,0.003468,8,2021
+Louisiana,0-18,Female,NonHispanic_White,0.0027199999999999998,8,2021
+Louisiana,0-18,Female,AfricanAmerican,0.007888,8,2021
+Louisiana,0-18,Female,Hispanic,0.004352,8,2021
+Louisiana,0-18,Female,Asian,0.003264,8,2021
+Louisiana,0-18,Female,AmericanIndian,0.004896,8,2021
+Louisiana,0-18,Female,OtherPacific_Islander,0.004079999999999999,8,2021
+Louisiana,0-18,Female,TwoOrMore_Races,0.0046240000000000005,8,2021
+Louisiana,19-64,Male,NonHispanic_White,0.0020399999999999997,8,2021
+Louisiana,19-64,Male,AfricanAmerican,0.005915999999999999,8,2021
+Louisiana,19-64,Male,Hispanic,0.003264,8,2021
+Louisiana,19-64,Male,Asian,0.002448,8,2021
+Louisiana,19-64,Male,AmericanIndian,0.003672,8,2021
+Louisiana,19-64,Male,OtherPacific_Islander,0.0030600000000000002,8,2021
+Louisiana,19-64,Male,TwoOrMore_Races,0.003468,8,2021
+Louisiana,19-64,Female,NonHispanic_White,0.0027199999999999998,8,2021
+Louisiana,19-64,Female,AfricanAmerican,0.007888,8,2021
+Louisiana,19-64,Female,Hispanic,0.004352,8,2021
+Louisiana,19-64,Female,Asian,0.003264,8,2021
+Louisiana,19-64,Female,AmericanIndian,0.004896,8,2021
+Louisiana,19-64,Female,OtherPacific_Islander,0.004079999999999999,8,2021
+Louisiana,19-64,Female,TwoOrMore_Races,0.0046240000000000005,8,2021
+Louisiana,65+,Male,NonHispanic_White,0.0020399999999999997,8,2021
+Louisiana,65+,Male,AfricanAmerican,0.005915999999999999,8,2021
+Louisiana,65+,Male,Hispanic,0.003264,8,2021
+Louisiana,65+,Male,Asian,0.002448,8,2021
+Louisiana,65+,Male,AmericanIndian,0.003672,8,2021
+Louisiana,65+,Male,OtherPacific_Islander,0.0030600000000000002,8,2021
+Louisiana,65+,Male,TwoOrMore_Races,0.003468,8,2021
+Louisiana,65+,Female,NonHispanic_White,0.0027199999999999998,8,2021
+Louisiana,65+,Female,AfricanAmerican,0.007888,8,2021
+Louisiana,65+,Female,Hispanic,0.004352,8,2021
+Louisiana,65+,Female,Asian,0.003264,8,2021
+Louisiana,65+,Female,AmericanIndian,0.004896,8,2021
+Louisiana,65+,Female,OtherPacific_Islander,0.004079999999999999,8,2021
+Louisiana,65+,Female,TwoOrMore_Races,0.0046240000000000005,8,2021
+Maine,0-18,Male,NonHispanic_White,0.00081,8,2021
+Maine,0-18,Male,AfricanAmerican,0.00432,8,2021
+Maine,0-18,Male,Hispanic,0.00135,8,2021
+Maine,0-18,Male,Asian,0.0,8,2021
+Maine,0-18,Male,AmericanIndian,0.00198,8,2021
+Maine,0-18,Male,OtherPacific_Islander,0.00162,8,2021
+Maine,0-18,Male,TwoOrMore_Races,0.0009,8,2021
+Maine,0-18,Female,NonHispanic_White,0.0009,8,2021
+Maine,0-18,Female,AfricanAmerican,0.0048,8,2021
+Maine,0-18,Female,Hispanic,0.0015,8,2021
+Maine,0-18,Female,Asian,0.0,8,2021
+Maine,0-18,Female,AmericanIndian,0.0022,8,2021
+Maine,0-18,Female,OtherPacific_Islander,0.0018,8,2021
+Maine,0-18,Female,TwoOrMore_Races,0.001,8,2021
+Maine,19-64,Male,NonHispanic_White,0.00081,8,2021
+Maine,19-64,Male,AfricanAmerican,0.00432,8,2021
+Maine,19-64,Male,Hispanic,0.00135,8,2021
+Maine,19-64,Male,Asian,0.0,8,2021
+Maine,19-64,Male,AmericanIndian,0.00198,8,2021
+Maine,19-64,Male,OtherPacific_Islander,0.00162,8,2021
+Maine,19-64,Male,TwoOrMore_Races,0.0009,8,2021
+Maine,19-64,Female,NonHispanic_White,0.0009,8,2021
+Maine,19-64,Female,AfricanAmerican,0.0048,8,2021
+Maine,19-64,Female,Hispanic,0.0015,8,2021
+Maine,19-64,Female,Asian,0.0,8,2021
+Maine,19-64,Female,AmericanIndian,0.0022,8,2021
+Maine,19-64,Female,OtherPacific_Islander,0.0018,8,2021
+Maine,19-64,Female,TwoOrMore_Races,0.001,8,2021
+Maine,65+,Male,NonHispanic_White,0.00081,8,2021
+Maine,65+,Male,AfricanAmerican,0.00432,8,2021
+Maine,65+,Male,Hispanic,0.00135,8,2021
+Maine,65+,Male,Asian,0.0,8,2021
+Maine,65+,Male,AmericanIndian,0.00198,8,2021
+Maine,65+,Male,OtherPacific_Islander,0.00162,8,2021
+Maine,65+,Male,TwoOrMore_Races,0.0009,8,2021
+Maine,65+,Female,NonHispanic_White,0.0009,8,2021
+Maine,65+,Female,AfricanAmerican,0.0048,8,2021
+Maine,65+,Female,Hispanic,0.0015,8,2021
+Maine,65+,Female,Asian,0.0,8,2021
+Maine,65+,Female,AmericanIndian,0.0022,8,2021
+Maine,65+,Female,OtherPacific_Islander,0.0018,8,2021
+Maine,65+,Female,TwoOrMore_Races,0.001,8,2021
+Maryland,0-18,Male,NonHispanic_White,0.00023999999999999998,8,2021
+Maryland,0-18,Male,AfricanAmerican,0.000624,8,2021
+Maryland,0-18,Male,Hispanic,0.00043200000000000004,8,2021
+Maryland,0-18,Male,Asian,0.000288,8,2021
+Maryland,0-18,Male,AmericanIndian,0.0,8,2021
+Maryland,0-18,Male,OtherPacific_Islander,0.000384,8,2021
+Maryland,0-18,Male,TwoOrMore_Races,0.000384,8,2021
+Maryland,0-18,Female,NonHispanic_White,0.00032,8,2021
+Maryland,0-18,Female,AfricanAmerican,0.0008320000000000001,8,2021
+Maryland,0-18,Female,Hispanic,0.000576,8,2021
+Maryland,0-18,Female,Asian,0.000384,8,2021
+Maryland,0-18,Female,AmericanIndian,0.0,8,2021
+Maryland,0-18,Female,OtherPacific_Islander,0.000512,8,2021
+Maryland,0-18,Female,TwoOrMore_Races,0.000512,8,2021
+Maryland,19-64,Male,NonHispanic_White,0.00023999999999999998,8,2021
+Maryland,19-64,Male,AfricanAmerican,0.000624,8,2021
+Maryland,19-64,Male,Hispanic,0.00043200000000000004,8,2021
+Maryland,19-64,Male,Asian,0.000288,8,2021
+Maryland,19-64,Male,AmericanIndian,0.0,8,2021
+Maryland,19-64,Male,OtherPacific_Islander,0.000384,8,2021
+Maryland,19-64,Male,TwoOrMore_Races,0.000384,8,2021
+Maryland,19-64,Female,NonHispanic_White,0.00032,8,2021
+Maryland,19-64,Female,AfricanAmerican,0.0008320000000000001,8,2021
+Maryland,19-64,Female,Hispanic,0.000576,8,2021
+Maryland,19-64,Female,Asian,0.000384,8,2021
+Maryland,19-64,Female,AmericanIndian,0.0,8,2021
+Maryland,19-64,Female,OtherPacific_Islander,0.000512,8,2021
+Maryland,19-64,Female,TwoOrMore_Races,0.000512,8,2021
+Maryland,65+,Male,NonHispanic_White,0.00023999999999999998,8,2021
+Maryland,65+,Male,AfricanAmerican,0.000624,8,2021
+Maryland,65+,Male,Hispanic,0.00043200000000000004,8,2021
+Maryland,65+,Male,Asian,0.000288,8,2021
+Maryland,65+,Male,AmericanIndian,0.0,8,2021
+Maryland,65+,Male,OtherPacific_Islander,0.000384,8,2021
+Maryland,65+,Male,TwoOrMore_Races,0.000384,8,2021
+Maryland,65+,Female,NonHispanic_White,0.00032,8,2021
+Maryland,65+,Female,AfricanAmerican,0.0008320000000000001,8,2021
+Maryland,65+,Female,Hispanic,0.000576,8,2021
+Maryland,65+,Female,Asian,0.000384,8,2021
+Maryland,65+,Female,AmericanIndian,0.0,8,2021
+Maryland,65+,Female,OtherPacific_Islander,0.000512,8,2021
+Maryland,65+,Female,TwoOrMore_Races,0.000512,8,2021
+Massachusetts,0-18,Male,NonHispanic_White,0.00037799999999999997,8,2021
+Massachusetts,0-18,Male,AfricanAmerican,0.001134,8,2021
+Massachusetts,0-18,Male,Hispanic,0.001449,8,2021
+Massachusetts,0-18,Male,Asian,0.0006929999999999999,8,2021
+Massachusetts,0-18,Male,AmericanIndian,0.0,8,2021
+Massachusetts,0-18,Male,OtherPacific_Islander,0.000819,8,2021
+Massachusetts,0-18,Male,TwoOrMore_Races,0.000567,8,2021
+Massachusetts,0-18,Female,NonHispanic_White,0.00048600000000000005,8,2021
+Massachusetts,0-18,Female,AfricanAmerican,0.001458,8,2021
+Massachusetts,0-18,Female,Hispanic,0.0018629999999999999,8,2021
+Massachusetts,0-18,Female,Asian,0.000891,8,2021
+Massachusetts,0-18,Female,AmericanIndian,0.0,8,2021
+Massachusetts,0-18,Female,OtherPacific_Islander,0.001053,8,2021
+Massachusetts,0-18,Female,TwoOrMore_Races,0.000729,8,2021
+Massachusetts,19-64,Male,NonHispanic_White,0.00037799999999999997,8,2021
+Massachusetts,19-64,Male,AfricanAmerican,0.001134,8,2021
+Massachusetts,19-64,Male,Hispanic,0.001449,8,2021
+Massachusetts,19-64,Male,Asian,0.0006929999999999999,8,2021
+Massachusetts,19-64,Male,AmericanIndian,0.0,8,2021
+Massachusetts,19-64,Male,OtherPacific_Islander,0.000819,8,2021
+Massachusetts,19-64,Male,TwoOrMore_Races,0.000567,8,2021
+Massachusetts,19-64,Female,NonHispanic_White,0.00048600000000000005,8,2021
+Massachusetts,19-64,Female,AfricanAmerican,0.001458,8,2021
+Massachusetts,19-64,Female,Hispanic,0.0018629999999999999,8,2021
+Massachusetts,19-64,Female,Asian,0.000891,8,2021
+Massachusetts,19-64,Female,AmericanIndian,0.0,8,2021
+Massachusetts,19-64,Female,OtherPacific_Islander,0.001053,8,2021
+Massachusetts,19-64,Female,TwoOrMore_Races,0.000729,8,2021
+Massachusetts,65+,Male,NonHispanic_White,0.00037799999999999997,8,2021
+Massachusetts,65+,Male,AfricanAmerican,0.001134,8,2021
+Massachusetts,65+,Male,Hispanic,0.001449,8,2021
+Massachusetts,65+,Male,Asian,0.0006929999999999999,8,2021
+Massachusetts,65+,Male,AmericanIndian,0.0,8,2021
+Massachusetts,65+,Male,OtherPacific_Islander,0.000819,8,2021
+Massachusetts,65+,Male,TwoOrMore_Races,0.000567,8,2021
+Massachusetts,65+,Female,NonHispanic_White,0.00048600000000000005,8,2021
+Massachusetts,65+,Female,AfricanAmerican,0.001458,8,2021
+Massachusetts,65+,Female,Hispanic,0.0018629999999999999,8,2021
+Massachusetts,65+,Female,Asian,0.000891,8,2021
+Massachusetts,65+,Female,AmericanIndian,0.0,8,2021
+Massachusetts,65+,Female,OtherPacific_Islander,0.001053,8,2021
+Massachusetts,65+,Female,TwoOrMore_Races,0.000729,8,2021
+Michigan,0-18,Male,NonHispanic_White,0.001287,8,2021
+Michigan,0-18,Male,AfricanAmerican,0.004147,8,2021
+Michigan,0-18,Male,Hispanic,0.0027170000000000002,8,2021
+Michigan,0-18,Male,Asian,0.002002,8,2021
+Michigan,0-18,Male,AmericanIndian,0.00286,8,2021
+Michigan,0-18,Male,OtherPacific_Islander,0.0032890000000000003,8,2021
+Michigan,0-18,Male,TwoOrMore_Races,0.001859,8,2021
+Michigan,0-18,Female,NonHispanic_White,0.001638,8,2021
+Michigan,0-18,Female,AfricanAmerican,0.005278,8,2021
+Michigan,0-18,Female,Hispanic,0.0034579999999999997,8,2021
+Michigan,0-18,Female,Asian,0.002548,8,2021
+Michigan,0-18,Female,AmericanIndian,0.00364,8,2021
+Michigan,0-18,Female,OtherPacific_Islander,0.004186,8,2021
+Michigan,0-18,Female,TwoOrMore_Races,0.002366,8,2021
+Michigan,19-64,Male,NonHispanic_White,0.001287,8,2021
+Michigan,19-64,Male,AfricanAmerican,0.004147,8,2021
+Michigan,19-64,Male,Hispanic,0.0027170000000000002,8,2021
+Michigan,19-64,Male,Asian,0.002002,8,2021
+Michigan,19-64,Male,AmericanIndian,0.00286,8,2021
+Michigan,19-64,Male,OtherPacific_Islander,0.0032890000000000003,8,2021
+Michigan,19-64,Male,TwoOrMore_Races,0.001859,8,2021
+Michigan,19-64,Female,NonHispanic_White,0.001638,8,2021
+Michigan,19-64,Female,AfricanAmerican,0.005278,8,2021
+Michigan,19-64,Female,Hispanic,0.0034579999999999997,8,2021
+Michigan,19-64,Female,Asian,0.002548,8,2021
+Michigan,19-64,Female,AmericanIndian,0.00364,8,2021
+Michigan,19-64,Female,OtherPacific_Islander,0.004186,8,2021
+Michigan,19-64,Female,TwoOrMore_Races,0.002366,8,2021
+Michigan,65+,Male,NonHispanic_White,0.001287,8,2021
+Michigan,65+,Male,AfricanAmerican,0.004147,8,2021
+Michigan,65+,Male,Hispanic,0.0027170000000000002,8,2021
+Michigan,65+,Male,Asian,0.002002,8,2021
+Michigan,65+,Male,AmericanIndian,0.00286,8,2021
+Michigan,65+,Male,OtherPacific_Islander,0.0032890000000000003,8,2021
+Michigan,65+,Male,TwoOrMore_Races,0.001859,8,2021
+Michigan,65+,Female,NonHispanic_White,0.001638,8,2021
+Michigan,65+,Female,AfricanAmerican,0.005278,8,2021
+Michigan,65+,Female,Hispanic,0.0034579999999999997,8,2021
+Michigan,65+,Female,Asian,0.002548,8,2021
+Michigan,65+,Female,AmericanIndian,0.00364,8,2021
+Michigan,65+,Female,OtherPacific_Islander,0.004186,8,2021
+Michigan,65+,Female,TwoOrMore_Races,0.002366,8,2021
+Minnesota,0-18,Male,NonHispanic_White,0.00023999999999999998,8,2021
+Minnesota,0-18,Male,AfricanAmerican,0.001392,8,2021
+Minnesota,0-18,Male,Hispanic,0.000816,8,2021
+Minnesota,0-18,Male,Asian,0.000672,8,2021
+Minnesota,0-18,Male,AmericanIndian,0.001104,8,2021
+Minnesota,0-18,Male,OtherPacific_Islander,0.00043200000000000004,8,2021
+Minnesota,0-18,Male,TwoOrMore_Races,0.000384,8,2021
+Minnesota,0-18,Female,NonHispanic_White,0.00032,8,2021
+Minnesota,0-18,Female,AfricanAmerican,0.0018559999999999998,8,2021
+Minnesota,0-18,Female,Hispanic,0.001088,8,2021
+Minnesota,0-18,Female,Asian,0.0008960000000000001,8,2021
+Minnesota,0-18,Female,AmericanIndian,0.001472,8,2021
+Minnesota,0-18,Female,OtherPacific_Islander,0.000576,8,2021
+Minnesota,0-18,Female,TwoOrMore_Races,0.000512,8,2021
+Minnesota,19-64,Male,NonHispanic_White,0.00023999999999999998,8,2021
+Minnesota,19-64,Male,AfricanAmerican,0.001392,8,2021
+Minnesota,19-64,Male,Hispanic,0.000816,8,2021
+Minnesota,19-64,Male,Asian,0.000672,8,2021
+Minnesota,19-64,Male,AmericanIndian,0.001104,8,2021
+Minnesota,19-64,Male,OtherPacific_Islander,0.00043200000000000004,8,2021
+Minnesota,19-64,Male,TwoOrMore_Races,0.000384,8,2021
+Minnesota,19-64,Female,NonHispanic_White,0.00032,8,2021
+Minnesota,19-64,Female,AfricanAmerican,0.0018559999999999998,8,2021
+Minnesota,19-64,Female,Hispanic,0.001088,8,2021
+Minnesota,19-64,Female,Asian,0.0008960000000000001,8,2021
+Minnesota,19-64,Female,AmericanIndian,0.001472,8,2021
+Minnesota,19-64,Female,OtherPacific_Islander,0.000576,8,2021
+Minnesota,19-64,Female,TwoOrMore_Races,0.000512,8,2021
+Minnesota,65+,Male,NonHispanic_White,0.00023999999999999998,8,2021
+Minnesota,65+,Male,AfricanAmerican,0.001392,8,2021
+Minnesota,65+,Male,Hispanic,0.000816,8,2021
+Minnesota,65+,Male,Asian,0.000672,8,2021
+Minnesota,65+,Male,AmericanIndian,0.001104,8,2021
+Minnesota,65+,Male,OtherPacific_Islander,0.00043200000000000004,8,2021
+Minnesota,65+,Male,TwoOrMore_Races,0.000384,8,2021
+Minnesota,65+,Female,NonHispanic_White,0.00032,8,2021
+Minnesota,65+,Female,AfricanAmerican,0.0018559999999999998,8,2021
+Minnesota,65+,Female,Hispanic,0.001088,8,2021
+Minnesota,65+,Female,Asian,0.0008960000000000001,8,2021
+Minnesota,65+,Female,AmericanIndian,0.001472,8,2021
+Minnesota,65+,Female,OtherPacific_Islander,0.000576,8,2021
+Minnesota,65+,Female,TwoOrMore_Races,0.000512,8,2021
+Mississippi,0-18,Male,NonHispanic_White,0.003135,8,2021
+Mississippi,0-18,Male,AfricanAmerican,0.00912,8,2021
+Mississippi,0-18,Male,Hispanic,0.00627,8,2021
+Mississippi,0-18,Male,Asian,0.003135,8,2021
+Mississippi,0-18,Male,AmericanIndian,0.0,8,2021
+Mississippi,0-18,Male,OtherPacific_Islander,0.006840000000000001,8,2021
+Mississippi,0-18,Male,TwoOrMore_Races,0.005415,8,2021
+Mississippi,0-18,Female,NonHispanic_White,0.00418,8,2021
+Mississippi,0-18,Female,AfricanAmerican,0.012159999999999999,8,2021
+Mississippi,0-18,Female,Hispanic,0.00836,8,2021
+Mississippi,0-18,Female,Asian,0.00418,8,2021
+Mississippi,0-18,Female,AmericanIndian,0.0,8,2021
+Mississippi,0-18,Female,OtherPacific_Islander,0.00912,8,2021
+Mississippi,0-18,Female,TwoOrMore_Races,0.00722,8,2021
+Mississippi,19-64,Male,NonHispanic_White,0.003135,8,2021
+Mississippi,19-64,Male,AfricanAmerican,0.00912,8,2021
+Mississippi,19-64,Male,Hispanic,0.00627,8,2021
+Mississippi,19-64,Male,Asian,0.003135,8,2021
+Mississippi,19-64,Male,AmericanIndian,0.0,8,2021
+Mississippi,19-64,Male,OtherPacific_Islander,0.006840000000000001,8,2021
+Mississippi,19-64,Male,TwoOrMore_Races,0.005415,8,2021
+Mississippi,19-64,Female,NonHispanic_White,0.00418,8,2021
+Mississippi,19-64,Female,AfricanAmerican,0.012159999999999999,8,2021
+Mississippi,19-64,Female,Hispanic,0.00836,8,2021
+Mississippi,19-64,Female,Asian,0.00418,8,2021
+Mississippi,19-64,Female,AmericanIndian,0.0,8,2021
+Mississippi,19-64,Female,OtherPacific_Islander,0.00912,8,2021
+Mississippi,19-64,Female,TwoOrMore_Races,0.00722,8,2021
+Mississippi,65+,Male,NonHispanic_White,0.003135,8,2021
+Mississippi,65+,Male,AfricanAmerican,0.00912,8,2021
+Mississippi,65+,Male,Hispanic,0.00627,8,2021
+Mississippi,65+,Male,Asian,0.003135,8,2021
+Mississippi,65+,Male,AmericanIndian,0.0,8,2021
+Mississippi,65+,Male,OtherPacific_Islander,0.006840000000000001,8,2021
+Mississippi,65+,Male,TwoOrMore_Races,0.005415,8,2021
+Mississippi,65+,Female,NonHispanic_White,0.00418,8,2021
+Mississippi,65+,Female,AfricanAmerican,0.012159999999999999,8,2021
+Mississippi,65+,Female,Hispanic,0.00836,8,2021
+Mississippi,65+,Female,Asian,0.00418,8,2021
+Mississippi,65+,Female,AmericanIndian,0.0,8,2021
+Mississippi,65+,Female,OtherPacific_Islander,0.00912,8,2021
+Mississippi,65+,Female,TwoOrMore_Races,0.00722,8,2021
+Missouri,0-18,Male,NonHispanic_White,0.0012,8,2021
+Missouri,0-18,Male,AfricanAmerican,0.00288,8,2021
+Missouri,0-18,Male,Hispanic,0.00252,8,2021
+Missouri,0-18,Male,Asian,0.0012,8,2021
+Missouri,0-18,Male,AmericanIndian,0.0019199999999999998,8,2021
+Missouri,0-18,Male,OtherPacific_Islander,0.0019199999999999998,8,2021
+Missouri,0-18,Male,TwoOrMore_Races,0.00144,8,2021
+Missouri,0-18,Female,NonHispanic_White,0.00144,8,2021
+Missouri,0-18,Female,AfricanAmerican,0.0034560000000000003,8,2021
+Missouri,0-18,Female,Hispanic,0.0030239999999999998,8,2021
+Missouri,0-18,Female,Asian,0.00144,8,2021
+Missouri,0-18,Female,AmericanIndian,0.002304,8,2021
+Missouri,0-18,Female,OtherPacific_Islander,0.002304,8,2021
+Missouri,0-18,Female,TwoOrMore_Races,0.0017280000000000002,8,2021
+Missouri,19-64,Male,NonHispanic_White,0.0012,8,2021
+Missouri,19-64,Male,AfricanAmerican,0.00288,8,2021
+Missouri,19-64,Male,Hispanic,0.00252,8,2021
+Missouri,19-64,Male,Asian,0.0012,8,2021
+Missouri,19-64,Male,AmericanIndian,0.0019199999999999998,8,2021
+Missouri,19-64,Male,OtherPacific_Islander,0.0019199999999999998,8,2021
+Missouri,19-64,Male,TwoOrMore_Races,0.00144,8,2021
+Missouri,19-64,Female,NonHispanic_White,0.00144,8,2021
+Missouri,19-64,Female,AfricanAmerican,0.0034560000000000003,8,2021
+Missouri,19-64,Female,Hispanic,0.0030239999999999998,8,2021
+Missouri,19-64,Female,Asian,0.00144,8,2021
+Missouri,19-64,Female,AmericanIndian,0.002304,8,2021
+Missouri,19-64,Female,OtherPacific_Islander,0.002304,8,2021
+Missouri,19-64,Female,TwoOrMore_Races,0.0017280000000000002,8,2021
+Missouri,65+,Male,NonHispanic_White,0.0012,8,2021
+Missouri,65+,Male,AfricanAmerican,0.00288,8,2021
+Missouri,65+,Male,Hispanic,0.00252,8,2021
+Missouri,65+,Male,Asian,0.0012,8,2021
+Missouri,65+,Male,AmericanIndian,0.0019199999999999998,8,2021
+Missouri,65+,Male,OtherPacific_Islander,0.0019199999999999998,8,2021
+Missouri,65+,Male,TwoOrMore_Races,0.00144,8,2021
+Missouri,65+,Female,NonHispanic_White,0.00144,8,2021
+Missouri,65+,Female,AfricanAmerican,0.0034560000000000003,8,2021
+Missouri,65+,Female,Hispanic,0.0030239999999999998,8,2021
+Missouri,65+,Female,Asian,0.00144,8,2021
+Missouri,65+,Female,AmericanIndian,0.002304,8,2021
+Missouri,65+,Female,OtherPacific_Islander,0.002304,8,2021
+Missouri,65+,Female,TwoOrMore_Races,0.0017280000000000002,8,2021
+Montana,0-18,Male,NonHispanic_White,0.00121,8,2021
+Montana,0-18,Male,AfricanAmerican,0.0,8,2021
+Montana,0-18,Male,Hispanic,0.0013310000000000002,8,2021
+Montana,0-18,Male,Asian,0.0,8,2021
+Montana,0-18,Male,AmericanIndian,0.003872,8,2021
+Montana,0-18,Male,OtherPacific_Islander,0.002541,8,2021
+Montana,0-18,Male,TwoOrMore_Races,0.0013310000000000002,8,2021
+Montana,0-18,Female,NonHispanic_White,0.00132,8,2021
+Montana,0-18,Female,AfricanAmerican,0.0,8,2021
+Montana,0-18,Female,Hispanic,0.001452,8,2021
+Montana,0-18,Female,Asian,0.0,8,2021
+Montana,0-18,Female,AmericanIndian,0.004224,8,2021
+Montana,0-18,Female,OtherPacific_Islander,0.0027719999999999997,8,2021
+Montana,0-18,Female,TwoOrMore_Races,0.001452,8,2021
+Montana,19-64,Male,NonHispanic_White,0.00121,8,2021
+Montana,19-64,Male,AfricanAmerican,0.0,8,2021
+Montana,19-64,Male,Hispanic,0.0013310000000000002,8,2021
+Montana,19-64,Male,Asian,0.0,8,2021
+Montana,19-64,Male,AmericanIndian,0.003872,8,2021
+Montana,19-64,Male,OtherPacific_Islander,0.002541,8,2021
+Montana,19-64,Male,TwoOrMore_Races,0.0013310000000000002,8,2021
+Montana,19-64,Female,NonHispanic_White,0.00132,8,2021
+Montana,19-64,Female,AfricanAmerican,0.0,8,2021
+Montana,19-64,Female,Hispanic,0.001452,8,2021
+Montana,19-64,Female,Asian,0.0,8,2021
+Montana,19-64,Female,AmericanIndian,0.004224,8,2021
+Montana,19-64,Female,OtherPacific_Islander,0.0027719999999999997,8,2021
+Montana,19-64,Female,TwoOrMore_Races,0.001452,8,2021
+Montana,65+,Male,NonHispanic_White,0.00121,8,2021
+Montana,65+,Male,AfricanAmerican,0.0,8,2021
+Montana,65+,Male,Hispanic,0.0013310000000000002,8,2021
+Montana,65+,Male,Asian,0.0,8,2021
+Montana,65+,Male,AmericanIndian,0.003872,8,2021
+Montana,65+,Male,OtherPacific_Islander,0.002541,8,2021
+Montana,65+,Male,TwoOrMore_Races,0.0013310000000000002,8,2021
+Montana,65+,Female,NonHispanic_White,0.00132,8,2021
+Montana,65+,Female,AfricanAmerican,0.0,8,2021
+Montana,65+,Female,Hispanic,0.001452,8,2021
+Montana,65+,Female,Asian,0.0,8,2021
+Montana,65+,Female,AmericanIndian,0.004224,8,2021
+Montana,65+,Female,OtherPacific_Islander,0.0027719999999999997,8,2021
+Montana,65+,Female,TwoOrMore_Races,0.001452,8,2021
+Nebraska,0-18,Male,NonHispanic_White,0.00056,8,2021
+Nebraska,0-18,Male,AfricanAmerican,0.00232,8,2021
+Nebraska,0-18,Male,Hispanic,0.0013599999999999999,8,2021
+Nebraska,0-18,Male,Asian,0.0,8,2021
+Nebraska,0-18,Male,AmericanIndian,0.0024,8,2021
+Nebraska,0-18,Male,OtherPacific_Islander,0.00224,8,2021
+Nebraska,0-18,Male,TwoOrMore_Races,0.0008,8,2021
+Nebraska,0-18,Female,NonHispanic_White,0.0007,8,2021
+Nebraska,0-18,Female,AfricanAmerican,0.0029,8,2021
+Nebraska,0-18,Female,Hispanic,0.0017,8,2021
+Nebraska,0-18,Female,Asian,0.0,8,2021
+Nebraska,0-18,Female,AmericanIndian,0.003,8,2021
+Nebraska,0-18,Female,OtherPacific_Islander,0.0028,8,2021
+Nebraska,0-18,Female,TwoOrMore_Races,0.001,8,2021
+Nebraska,19-64,Male,NonHispanic_White,0.00056,8,2021
+Nebraska,19-64,Male,AfricanAmerican,0.00232,8,2021
+Nebraska,19-64,Male,Hispanic,0.0013599999999999999,8,2021
+Nebraska,19-64,Male,Asian,0.0,8,2021
+Nebraska,19-64,Male,AmericanIndian,0.0024,8,2021
+Nebraska,19-64,Male,OtherPacific_Islander,0.00224,8,2021
+Nebraska,19-64,Male,TwoOrMore_Races,0.0008,8,2021
+Nebraska,19-64,Female,NonHispanic_White,0.0007,8,2021
+Nebraska,19-64,Female,AfricanAmerican,0.0029,8,2021
+Nebraska,19-64,Female,Hispanic,0.0017,8,2021
+Nebraska,19-64,Female,Asian,0.0,8,2021
+Nebraska,19-64,Female,AmericanIndian,0.003,8,2021
+Nebraska,19-64,Female,OtherPacific_Islander,0.0028,8,2021
+Nebraska,19-64,Female,TwoOrMore_Races,0.001,8,2021
+Nebraska,65+,Male,NonHispanic_White,0.00056,8,2021
+Nebraska,65+,Male,AfricanAmerican,0.00232,8,2021
+Nebraska,65+,Male,Hispanic,0.0013599999999999999,8,2021
+Nebraska,65+,Male,Asian,0.0,8,2021
+Nebraska,65+,Male,AmericanIndian,0.0024,8,2021
+Nebraska,65+,Male,OtherPacific_Islander,0.00224,8,2021
+Nebraska,65+,Male,TwoOrMore_Races,0.0008,8,2021
+Nebraska,65+,Female,NonHispanic_White,0.0007,8,2021
+Nebraska,65+,Female,AfricanAmerican,0.0029,8,2021
+Nebraska,65+,Female,Hispanic,0.0017,8,2021
+Nebraska,65+,Female,Asian,0.0,8,2021
+Nebraska,65+,Female,AmericanIndian,0.003,8,2021
+Nebraska,65+,Female,OtherPacific_Islander,0.0028,8,2021
+Nebraska,65+,Female,TwoOrMore_Races,0.001,8,2021
+Nevada,0-18,Male,NonHispanic_White,0.0008640000000000001,8,2021
+Nevada,0-18,Male,AfricanAmerican,0.002376,8,2021
+Nevada,0-18,Male,Hispanic,0.0017280000000000002,8,2021
+Nevada,0-18,Male,Asian,0.0007559999999999999,8,2021
+Nevada,0-18,Male,AmericanIndian,0.002052,8,2021
+Nevada,0-18,Male,OtherPacific_Islander,0.00162,8,2021
+Nevada,0-18,Male,TwoOrMore_Races,0.001296,8,2021
+Nevada,0-18,Female,NonHispanic_White,0.001056,8,2021
+Nevada,0-18,Female,AfricanAmerican,0.002904,8,2021
+Nevada,0-18,Female,Hispanic,0.002112,8,2021
+Nevada,0-18,Female,Asian,0.000924,8,2021
+Nevada,0-18,Female,AmericanIndian,0.002508,8,2021
+Nevada,0-18,Female,OtherPacific_Islander,0.00198,8,2021
+Nevada,0-18,Female,TwoOrMore_Races,0.001584,8,2021
+Nevada,19-64,Male,NonHispanic_White,0.0008640000000000001,8,2021
+Nevada,19-64,Male,AfricanAmerican,0.002376,8,2021
+Nevada,19-64,Male,Hispanic,0.0017280000000000002,8,2021
+Nevada,19-64,Male,Asian,0.0007559999999999999,8,2021
+Nevada,19-64,Male,AmericanIndian,0.002052,8,2021
+Nevada,19-64,Male,OtherPacific_Islander,0.00162,8,2021
+Nevada,19-64,Male,TwoOrMore_Races,0.001296,8,2021
+Nevada,19-64,Female,NonHispanic_White,0.001056,8,2021
+Nevada,19-64,Female,AfricanAmerican,0.002904,8,2021
+Nevada,19-64,Female,Hispanic,0.002112,8,2021
+Nevada,19-64,Female,Asian,0.000924,8,2021
+Nevada,19-64,Female,AmericanIndian,0.002508,8,2021
+Nevada,19-64,Female,OtherPacific_Islander,0.00198,8,2021
+Nevada,19-64,Female,TwoOrMore_Races,0.001584,8,2021
+Nevada,65+,Male,NonHispanic_White,0.0008640000000000001,8,2021
+Nevada,65+,Male,AfricanAmerican,0.002376,8,2021
+Nevada,65+,Male,Hispanic,0.0017280000000000002,8,2021
+Nevada,65+,Male,Asian,0.0007559999999999999,8,2021
+Nevada,65+,Male,AmericanIndian,0.002052,8,2021
+Nevada,65+,Male,OtherPacific_Islander,0.00162,8,2021
+Nevada,65+,Male,TwoOrMore_Races,0.001296,8,2021
+Nevada,65+,Female,NonHispanic_White,0.001056,8,2021
+Nevada,65+,Female,AfricanAmerican,0.002904,8,2021
+Nevada,65+,Female,Hispanic,0.002112,8,2021
+Nevada,65+,Female,Asian,0.000924,8,2021
+Nevada,65+,Female,AmericanIndian,0.002508,8,2021
+Nevada,65+,Female,OtherPacific_Islander,0.00198,8,2021
+Nevada,65+,Female,TwoOrMore_Races,0.001584,8,2021
+New Hampshire,0-18,Male,NonHispanic_White,0.00011999999999999999,8,2021
+New Hampshire,0-18,Male,AfricanAmerican,0.000528,8,2021
+New Hampshire,0-18,Male,Hispanic,0.00036,8,2021
+New Hampshire,0-18,Male,Asian,0.0,8,2021
+New Hampshire,0-18,Male,AmericanIndian,0.0,8,2021
+New Hampshire,0-18,Male,OtherPacific_Islander,0.000288,8,2021
+New Hampshire,0-18,Male,TwoOrMore_Races,0.000144,8,2021
+New Hampshire,0-18,Female,NonHispanic_White,0.00018,8,2021
+New Hampshire,0-18,Female,AfricanAmerican,0.000792,8,2021
+New Hampshire,0-18,Female,Hispanic,0.00054,8,2021
+New Hampshire,0-18,Female,Asian,0.0,8,2021
+New Hampshire,0-18,Female,AmericanIndian,0.0,8,2021
+New Hampshire,0-18,Female,OtherPacific_Islander,0.00043200000000000004,8,2021
+New Hampshire,0-18,Female,TwoOrMore_Races,0.00021600000000000002,8,2021
+New Hampshire,19-64,Male,NonHispanic_White,0.00011999999999999999,8,2021
+New Hampshire,19-64,Male,AfricanAmerican,0.000528,8,2021
+New Hampshire,19-64,Male,Hispanic,0.00036,8,2021
+New Hampshire,19-64,Male,Asian,0.0,8,2021
+New Hampshire,19-64,Male,AmericanIndian,0.0,8,2021
+New Hampshire,19-64,Male,OtherPacific_Islander,0.000288,8,2021
+New Hampshire,19-64,Male,TwoOrMore_Races,0.000144,8,2021
+New Hampshire,19-64,Female,NonHispanic_White,0.00018,8,2021
+New Hampshire,19-64,Female,AfricanAmerican,0.000792,8,2021
+New Hampshire,19-64,Female,Hispanic,0.00054,8,2021
+New Hampshire,19-64,Female,Asian,0.0,8,2021
+New Hampshire,19-64,Female,AmericanIndian,0.0,8,2021
+New Hampshire,19-64,Female,OtherPacific_Islander,0.00043200000000000004,8,2021
+New Hampshire,19-64,Female,TwoOrMore_Races,0.00021600000000000002,8,2021
+New Hampshire,65+,Male,NonHispanic_White,0.00011999999999999999,8,2021
+New Hampshire,65+,Male,AfricanAmerican,0.000528,8,2021
+New Hampshire,65+,Male,Hispanic,0.00036,8,2021
+New Hampshire,65+,Male,Asian,0.0,8,2021
+New Hampshire,65+,Male,AmericanIndian,0.0,8,2021
+New Hampshire,65+,Male,OtherPacific_Islander,0.000288,8,2021
+New Hampshire,65+,Male,TwoOrMore_Races,0.000144,8,2021
+New Hampshire,65+,Female,NonHispanic_White,0.00018,8,2021
+New Hampshire,65+,Female,AfricanAmerican,0.000792,8,2021
+New Hampshire,65+,Female,Hispanic,0.00054,8,2021
+New Hampshire,65+,Female,Asian,0.0,8,2021
+New Hampshire,65+,Female,AmericanIndian,0.0,8,2021
+New Hampshire,65+,Female,OtherPacific_Islander,0.00043200000000000004,8,2021
+New Hampshire,65+,Female,TwoOrMore_Races,0.00021600000000000002,8,2021
+New Jersey,0-18,Male,NonHispanic_White,0.00027,8,2021
+New Jersey,0-18,Male,AfricanAmerican,0.0008640000000000001,8,2021
+New Jersey,0-18,Male,Hispanic,0.0008640000000000001,8,2021
+New Jersey,0-18,Male,Asian,0.000324,8,2021
+New Jersey,0-18,Male,AmericanIndian,0.0,8,2021
+New Jersey,0-18,Male,OtherPacific_Islander,0.000594,8,2021
+New Jersey,0-18,Male,TwoOrMore_Races,0.00048600000000000005,8,2021
+New Jersey,0-18,Female,NonHispanic_White,0.00036,8,2021
+New Jersey,0-18,Female,AfricanAmerican,0.001152,8,2021
+New Jersey,0-18,Female,Hispanic,0.001152,8,2021
+New Jersey,0-18,Female,Asian,0.00043200000000000004,8,2021
+New Jersey,0-18,Female,AmericanIndian,0.0,8,2021
+New Jersey,0-18,Female,OtherPacific_Islander,0.000792,8,2021
+New Jersey,0-18,Female,TwoOrMore_Races,0.000648,8,2021
+New Jersey,19-64,Male,NonHispanic_White,0.00027,8,2021
+New Jersey,19-64,Male,AfricanAmerican,0.0008640000000000001,8,2021
+New Jersey,19-64,Male,Hispanic,0.0008640000000000001,8,2021
+New Jersey,19-64,Male,Asian,0.000324,8,2021
+New Jersey,19-64,Male,AmericanIndian,0.0,8,2021
+New Jersey,19-64,Male,OtherPacific_Islander,0.000594,8,2021
+New Jersey,19-64,Male,TwoOrMore_Races,0.00048600000000000005,8,2021
+New Jersey,19-64,Female,NonHispanic_White,0.00036,8,2021
+New Jersey,19-64,Female,AfricanAmerican,0.001152,8,2021
+New Jersey,19-64,Female,Hispanic,0.001152,8,2021
+New Jersey,19-64,Female,Asian,0.00043200000000000004,8,2021
+New Jersey,19-64,Female,AmericanIndian,0.0,8,2021
+New Jersey,19-64,Female,OtherPacific_Islander,0.000792,8,2021
+New Jersey,19-64,Female,TwoOrMore_Races,0.000648,8,2021
+New Jersey,65+,Male,NonHispanic_White,0.00027,8,2021
+New Jersey,65+,Male,AfricanAmerican,0.0008640000000000001,8,2021
+New Jersey,65+,Male,Hispanic,0.0008640000000000001,8,2021
+New Jersey,65+,Male,Asian,0.000324,8,2021
+New Jersey,65+,Male,AmericanIndian,0.0,8,2021
+New Jersey,65+,Male,OtherPacific_Islander,0.000594,8,2021
+New Jersey,65+,Male,TwoOrMore_Races,0.00048600000000000005,8,2021
+New Jersey,65+,Female,NonHispanic_White,0.00036,8,2021
+New Jersey,65+,Female,AfricanAmerican,0.001152,8,2021
+New Jersey,65+,Female,Hispanic,0.001152,8,2021
+New Jersey,65+,Female,Asian,0.00043200000000000004,8,2021
+New Jersey,65+,Female,AmericanIndian,0.0,8,2021
+New Jersey,65+,Female,OtherPacific_Islander,0.000792,8,2021
+New Jersey,65+,Female,TwoOrMore_Races,0.000648,8,2021
+New Mexico,0-18,Male,NonHispanic_White,0.0027,8,2021
+New Mexico,0-18,Male,AfricanAmerican,0.00648,8,2021
+New Mexico,0-18,Male,Hispanic,0.00621,8,2021
+New Mexico,0-18,Male,Asian,0.0,8,2021
+New Mexico,0-18,Male,AmericanIndian,0.00783,8,2021
+New Mexico,0-18,Male,OtherPacific_Islander,0.00432,8,2021
+New Mexico,0-18,Male,TwoOrMore_Races,0.00486,8,2021
+New Mexico,0-18,Female,NonHispanic_White,0.0030600000000000002,8,2021
+New Mexico,0-18,Female,AfricanAmerican,0.007344,8,2021
+New Mexico,0-18,Female,Hispanic,0.007037999999999999,8,2021
+New Mexico,0-18,Female,Asian,0.0,8,2021
+New Mexico,0-18,Female,AmericanIndian,0.008874,8,2021
+New Mexico,0-18,Female,OtherPacific_Islander,0.004896,8,2021
+New Mexico,0-18,Female,TwoOrMore_Races,0.005508,8,2021
+New Mexico,19-64,Male,NonHispanic_White,0.0027,8,2021
+New Mexico,19-64,Male,AfricanAmerican,0.00648,8,2021
+New Mexico,19-64,Male,Hispanic,0.00621,8,2021
+New Mexico,19-64,Male,Asian,0.0,8,2021
+New Mexico,19-64,Male,AmericanIndian,0.00783,8,2021
+New Mexico,19-64,Male,OtherPacific_Islander,0.00432,8,2021
+New Mexico,19-64,Male,TwoOrMore_Races,0.00486,8,2021
+New Mexico,19-64,Female,NonHispanic_White,0.0030600000000000002,8,2021
+New Mexico,19-64,Female,AfricanAmerican,0.007344,8,2021
+New Mexico,19-64,Female,Hispanic,0.007037999999999999,8,2021
+New Mexico,19-64,Female,Asian,0.0,8,2021
+New Mexico,19-64,Female,AmericanIndian,0.008874,8,2021
+New Mexico,19-64,Female,OtherPacific_Islander,0.004896,8,2021
+New Mexico,19-64,Female,TwoOrMore_Races,0.005508,8,2021
+New Mexico,65+,Male,NonHispanic_White,0.0027,8,2021
+New Mexico,65+,Male,AfricanAmerican,0.00648,8,2021
+New Mexico,65+,Male,Hispanic,0.00621,8,2021
+New Mexico,65+,Male,Asian,0.0,8,2021
+New Mexico,65+,Male,AmericanIndian,0.00783,8,2021
+New Mexico,65+,Male,OtherPacific_Islander,0.00432,8,2021
+New Mexico,65+,Male,TwoOrMore_Races,0.00486,8,2021
+New Mexico,65+,Female,NonHispanic_White,0.0030600000000000002,8,2021
+New Mexico,65+,Female,AfricanAmerican,0.007344,8,2021
+New Mexico,65+,Female,Hispanic,0.007037999999999999,8,2021
+New Mexico,65+,Female,Asian,0.0,8,2021
+New Mexico,65+,Female,AmericanIndian,0.008874,8,2021
+New Mexico,65+,Female,OtherPacific_Islander,0.004896,8,2021
+New Mexico,65+,Female,TwoOrMore_Races,0.005508,8,2021
+New York,0-18,Male,NonHispanic_White,0.0010400000000000001,8,2021
+New York,0-18,Male,AfricanAmerican,0.0026,8,2021
+New York,0-18,Male,Hispanic,0.0027300000000000002,8,2021
+New York,0-18,Male,Asian,0.00182,8,2021
+New York,0-18,Male,AmericanIndian,0.00234,8,2021
+New York,0-18,Male,OtherPacific_Islander,0.0020800000000000003,8,2021
+New York,0-18,Male,TwoOrMore_Races,0.0016899999999999999,8,2021
+New York,0-18,Female,NonHispanic_White,0.001352,8,2021
+New York,0-18,Female,AfricanAmerican,0.0033799999999999998,8,2021
+New York,0-18,Female,Hispanic,0.003549,8,2021
+New York,0-18,Female,Asian,0.002366,8,2021
+New York,0-18,Female,AmericanIndian,0.003042,8,2021
+New York,0-18,Female,OtherPacific_Islander,0.002704,8,2021
+New York,0-18,Female,TwoOrMore_Races,0.0021969999999999997,8,2021
+New York,19-64,Male,NonHispanic_White,0.0010400000000000001,8,2021
+New York,19-64,Male,AfricanAmerican,0.0026,8,2021
+New York,19-64,Male,Hispanic,0.0027300000000000002,8,2021
+New York,19-64,Male,Asian,0.00182,8,2021
+New York,19-64,Male,AmericanIndian,0.00234,8,2021
+New York,19-64,Male,OtherPacific_Islander,0.0020800000000000003,8,2021
+New York,19-64,Male,TwoOrMore_Races,0.0016899999999999999,8,2021
+New York,19-64,Female,NonHispanic_White,0.001352,8,2021
+New York,19-64,Female,AfricanAmerican,0.0033799999999999998,8,2021
+New York,19-64,Female,Hispanic,0.003549,8,2021
+New York,19-64,Female,Asian,0.002366,8,2021
+New York,19-64,Female,AmericanIndian,0.003042,8,2021
+New York,19-64,Female,OtherPacific_Islander,0.002704,8,2021
+New York,19-64,Female,TwoOrMore_Races,0.0021969999999999997,8,2021
+New York,65+,Male,NonHispanic_White,0.0010400000000000001,8,2021
+New York,65+,Male,AfricanAmerican,0.0026,8,2021
+New York,65+,Male,Hispanic,0.0027300000000000002,8,2021
+New York,65+,Male,Asian,0.00182,8,2021
+New York,65+,Male,AmericanIndian,0.00234,8,2021
+New York,65+,Male,OtherPacific_Islander,0.0020800000000000003,8,2021
+New York,65+,Male,TwoOrMore_Races,0.0016899999999999999,8,2021
+New York,65+,Female,NonHispanic_White,0.001352,8,2021
+New York,65+,Female,AfricanAmerican,0.0033799999999999998,8,2021
+New York,65+,Female,Hispanic,0.003549,8,2021
+New York,65+,Female,Asian,0.002366,8,2021
+New York,65+,Female,AmericanIndian,0.003042,8,2021
+New York,65+,Female,OtherPacific_Islander,0.002704,8,2021
+New York,65+,Female,TwoOrMore_Races,0.0021969999999999997,8,2021
+North Carolina,0-18,Male,NonHispanic_White,0.0013859999999999999,8,2021
+North Carolina,0-18,Male,AfricanAmerican,0.003542,8,2021
+North Carolina,0-18,Male,Hispanic,0.004158,8,2021
+North Carolina,0-18,Male,Asian,0.0015400000000000001,8,2021
+North Carolina,0-18,Male,AmericanIndian,0.003542,8,2021
+North Carolina,0-18,Male,OtherPacific_Islander,0.0027719999999999997,8,2021
+North Carolina,0-18,Male,TwoOrMore_Races,0.002156,8,2021
+North Carolina,0-18,Female,NonHispanic_White,0.0017640000000000002,8,2021
+North Carolina,0-18,Female,AfricanAmerican,0.004508,8,2021
+North Carolina,0-18,Female,Hispanic,0.005292,8,2021
+North Carolina,0-18,Female,Asian,0.00196,8,2021
+North Carolina,0-18,Female,AmericanIndian,0.004508,8,2021
+North Carolina,0-18,Female,OtherPacific_Islander,0.0035280000000000003,8,2021
+North Carolina,0-18,Female,TwoOrMore_Races,0.002744,8,2021
+North Carolina,19-64,Male,NonHispanic_White,0.0013859999999999999,8,2021
+North Carolina,19-64,Male,AfricanAmerican,0.003542,8,2021
+North Carolina,19-64,Male,Hispanic,0.004158,8,2021
+North Carolina,19-64,Male,Asian,0.0015400000000000001,8,2021
+North Carolina,19-64,Male,AmericanIndian,0.003542,8,2021
+North Carolina,19-64,Male,OtherPacific_Islander,0.0027719999999999997,8,2021
+North Carolina,19-64,Male,TwoOrMore_Races,0.002156,8,2021
+North Carolina,19-64,Female,NonHispanic_White,0.0017640000000000002,8,2021
+North Carolina,19-64,Female,AfricanAmerican,0.004508,8,2021
+North Carolina,19-64,Female,Hispanic,0.005292,8,2021
+North Carolina,19-64,Female,Asian,0.00196,8,2021
+North Carolina,19-64,Female,AmericanIndian,0.004508,8,2021
+North Carolina,19-64,Female,OtherPacific_Islander,0.0035280000000000003,8,2021
+North Carolina,19-64,Female,TwoOrMore_Races,0.002744,8,2021
+North Carolina,65+,Male,NonHispanic_White,0.0013859999999999999,8,2021
+North Carolina,65+,Male,AfricanAmerican,0.003542,8,2021
+North Carolina,65+,Male,Hispanic,0.004158,8,2021
+North Carolina,65+,Male,Asian,0.0015400000000000001,8,2021
+North Carolina,65+,Male,AmericanIndian,0.003542,8,2021
+North Carolina,65+,Male,OtherPacific_Islander,0.0027719999999999997,8,2021
+North Carolina,65+,Male,TwoOrMore_Races,0.002156,8,2021
+North Carolina,65+,Female,NonHispanic_White,0.0017640000000000002,8,2021
+North Carolina,65+,Female,AfricanAmerican,0.004508,8,2021
+North Carolina,65+,Female,Hispanic,0.005292,8,2021
+North Carolina,65+,Female,Asian,0.00196,8,2021
+North Carolina,65+,Female,AmericanIndian,0.004508,8,2021
+North Carolina,65+,Female,OtherPacific_Islander,0.0035280000000000003,8,2021
+North Carolina,65+,Female,TwoOrMore_Races,0.002744,8,2021
+North Dakota,0-18,Male,NonHispanic_White,0.000648,8,2021
+North Dakota,0-18,Male,AfricanAmerican,0.0,8,2021
+North Dakota,0-18,Male,Hispanic,0.0,8,2021
+North Dakota,0-18,Male,Asian,0.0,8,2021
+North Dakota,0-18,Male,AmericanIndian,0.002592,8,2021
+North Dakota,0-18,Male,OtherPacific_Islander,0.0,8,2021
+North Dakota,0-18,Male,TwoOrMore_Races,0.000729,8,2021
+North Dakota,0-18,Female,NonHispanic_White,0.00072,8,2021
+North Dakota,0-18,Female,AfricanAmerican,0.0,8,2021
+North Dakota,0-18,Female,Hispanic,0.0,8,2021
+North Dakota,0-18,Female,Asian,0.0,8,2021
+North Dakota,0-18,Female,AmericanIndian,0.00288,8,2021
+North Dakota,0-18,Female,OtherPacific_Islander,0.0,8,2021
+North Dakota,0-18,Female,TwoOrMore_Races,0.00081,8,2021
+North Dakota,19-64,Male,NonHispanic_White,0.000648,8,2021
+North Dakota,19-64,Male,AfricanAmerican,0.0,8,2021
+North Dakota,19-64,Male,Hispanic,0.0,8,2021
+North Dakota,19-64,Male,Asian,0.0,8,2021
+North Dakota,19-64,Male,AmericanIndian,0.002592,8,2021
+North Dakota,19-64,Male,OtherPacific_Islander,0.0,8,2021
+North Dakota,19-64,Male,TwoOrMore_Races,0.000729,8,2021
+North Dakota,19-64,Female,NonHispanic_White,0.00072,8,2021
+North Dakota,19-64,Female,AfricanAmerican,0.0,8,2021
+North Dakota,19-64,Female,Hispanic,0.0,8,2021
+North Dakota,19-64,Female,Asian,0.0,8,2021
+North Dakota,19-64,Female,AmericanIndian,0.00288,8,2021
+North Dakota,19-64,Female,OtherPacific_Islander,0.0,8,2021
+North Dakota,19-64,Female,TwoOrMore_Races,0.00081,8,2021
+North Dakota,65+,Male,NonHispanic_White,0.000648,8,2021
+North Dakota,65+,Male,AfricanAmerican,0.0,8,2021
+North Dakota,65+,Male,Hispanic,0.0,8,2021
+North Dakota,65+,Male,Asian,0.0,8,2021
+North Dakota,65+,Male,AmericanIndian,0.002592,8,2021
+North Dakota,65+,Male,OtherPacific_Islander,0.0,8,2021
+North Dakota,65+,Male,TwoOrMore_Races,0.000729,8,2021
+North Dakota,65+,Female,NonHispanic_White,0.00072,8,2021
+North Dakota,65+,Female,AfricanAmerican,0.0,8,2021
+North Dakota,65+,Female,Hispanic,0.0,8,2021
+North Dakota,65+,Female,Asian,0.0,8,2021
+North Dakota,65+,Female,AmericanIndian,0.00288,8,2021
+North Dakota,65+,Female,OtherPacific_Islander,0.0,8,2021
+North Dakota,65+,Female,TwoOrMore_Races,0.00081,8,2021
+Ohio,0-18,Male,NonHispanic_White,0.00117,8,2021
+Ohio,0-18,Male,AfricanAmerican,0.0039,8,2021
+Ohio,0-18,Male,Hispanic,0.00286,8,2021
+Ohio,0-18,Male,Asian,0.0016899999999999999,8,2021
+Ohio,0-18,Male,AmericanIndian,0.00351,8,2021
+Ohio,0-18,Male,OtherPacific_Islander,0.00312,8,2021
+Ohio,0-18,Male,TwoOrMore_Races,0.0016899999999999999,8,2021
+Ohio,0-18,Female,NonHispanic_White,0.001521,8,2021
+Ohio,0-18,Female,AfricanAmerican,0.00507,8,2021
+Ohio,0-18,Female,Hispanic,0.003718,8,2021
+Ohio,0-18,Female,Asian,0.0021969999999999997,8,2021
+Ohio,0-18,Female,AmericanIndian,0.004563,8,2021
+Ohio,0-18,Female,OtherPacific_Islander,0.004056000000000001,8,2021
+Ohio,0-18,Female,TwoOrMore_Races,0.0021969999999999997,8,2021
+Ohio,19-64,Male,NonHispanic_White,0.00117,8,2021
+Ohio,19-64,Male,AfricanAmerican,0.0039,8,2021
+Ohio,19-64,Male,Hispanic,0.00286,8,2021
+Ohio,19-64,Male,Asian,0.0016899999999999999,8,2021
+Ohio,19-64,Male,AmericanIndian,0.00351,8,2021
+Ohio,19-64,Male,OtherPacific_Islander,0.00312,8,2021
+Ohio,19-64,Male,TwoOrMore_Races,0.0016899999999999999,8,2021
+Ohio,19-64,Female,NonHispanic_White,0.001521,8,2021
+Ohio,19-64,Female,AfricanAmerican,0.00507,8,2021
+Ohio,19-64,Female,Hispanic,0.003718,8,2021
+Ohio,19-64,Female,Asian,0.0021969999999999997,8,2021
+Ohio,19-64,Female,AmericanIndian,0.004563,8,2021
+Ohio,19-64,Female,OtherPacific_Islander,0.004056000000000001,8,2021
+Ohio,19-64,Female,TwoOrMore_Races,0.0021969999999999997,8,2021
+Ohio,65+,Male,NonHispanic_White,0.00117,8,2021
+Ohio,65+,Male,AfricanAmerican,0.0039,8,2021
+Ohio,65+,Male,Hispanic,0.00286,8,2021
+Ohio,65+,Male,Asian,0.0016899999999999999,8,2021
+Ohio,65+,Male,AmericanIndian,0.00351,8,2021
+Ohio,65+,Male,OtherPacific_Islander,0.00312,8,2021
+Ohio,65+,Male,TwoOrMore_Races,0.0016899999999999999,8,2021
+Ohio,65+,Female,NonHispanic_White,0.001521,8,2021
+Ohio,65+,Female,AfricanAmerican,0.00507,8,2021
+Ohio,65+,Female,Hispanic,0.003718,8,2021
+Ohio,65+,Female,Asian,0.0021969999999999997,8,2021
+Ohio,65+,Female,AmericanIndian,0.004563,8,2021
+Ohio,65+,Female,OtherPacific_Islander,0.004056000000000001,8,2021
+Ohio,65+,Female,TwoOrMore_Races,0.0021969999999999997,8,2021
+Oklahoma,0-18,Male,NonHispanic_White,0.0014,8,2021
+Oklahoma,0-18,Male,AfricanAmerican,0.0037799999999999995,8,2021
+Oklahoma,0-18,Male,Hispanic,0.0028,8,2021
+Oklahoma,0-18,Male,Asian,0.00238,8,2021
+Oklahoma,0-18,Male,AmericanIndian,0.00224,8,2021
+Oklahoma,0-18,Male,OtherPacific_Islander,0.00266,8,2021
+Oklahoma,0-18,Male,TwoOrMore_Races,0.00196,8,2021
+Oklahoma,0-18,Female,NonHispanic_White,0.00196,8,2021
+Oklahoma,0-18,Female,AfricanAmerican,0.005292,8,2021
+Oklahoma,0-18,Female,Hispanic,0.00392,8,2021
+Oklahoma,0-18,Female,Asian,0.003332,8,2021
+Oklahoma,0-18,Female,AmericanIndian,0.003136,8,2021
+Oklahoma,0-18,Female,OtherPacific_Islander,0.0037240000000000003,8,2021
+Oklahoma,0-18,Female,TwoOrMore_Races,0.002744,8,2021
+Oklahoma,19-64,Male,NonHispanic_White,0.0014,8,2021
+Oklahoma,19-64,Male,AfricanAmerican,0.0037799999999999995,8,2021
+Oklahoma,19-64,Male,Hispanic,0.0028,8,2021
+Oklahoma,19-64,Male,Asian,0.00238,8,2021
+Oklahoma,19-64,Male,AmericanIndian,0.00224,8,2021
+Oklahoma,19-64,Male,OtherPacific_Islander,0.00266,8,2021
+Oklahoma,19-64,Male,TwoOrMore_Races,0.00196,8,2021
+Oklahoma,19-64,Female,NonHispanic_White,0.00196,8,2021
+Oklahoma,19-64,Female,AfricanAmerican,0.005292,8,2021
+Oklahoma,19-64,Female,Hispanic,0.00392,8,2021
+Oklahoma,19-64,Female,Asian,0.003332,8,2021
+Oklahoma,19-64,Female,AmericanIndian,0.003136,8,2021
+Oklahoma,19-64,Female,OtherPacific_Islander,0.0037240000000000003,8,2021
+Oklahoma,19-64,Female,TwoOrMore_Races,0.002744,8,2021
+Oklahoma,65+,Male,NonHispanic_White,0.0014,8,2021
+Oklahoma,65+,Male,AfricanAmerican,0.0037799999999999995,8,2021
+Oklahoma,65+,Male,Hispanic,0.0028,8,2021
+Oklahoma,65+,Male,Asian,0.00238,8,2021
+Oklahoma,65+,Male,AmericanIndian,0.00224,8,2021
+Oklahoma,65+,Male,OtherPacific_Islander,0.00266,8,2021
+Oklahoma,65+,Male,TwoOrMore_Races,0.00196,8,2021
+Oklahoma,65+,Female,NonHispanic_White,0.00196,8,2021
+Oklahoma,65+,Female,AfricanAmerican,0.005292,8,2021
+Oklahoma,65+,Female,Hispanic,0.00392,8,2021
+Oklahoma,65+,Female,Asian,0.003332,8,2021
+Oklahoma,65+,Female,AmericanIndian,0.003136,8,2021
+Oklahoma,65+,Female,OtherPacific_Islander,0.0037240000000000003,8,2021
+Oklahoma,65+,Female,TwoOrMore_Races,0.002744,8,2021
+Oregon,0-18,Male,NonHispanic_White,0.00099,8,2021
+Oregon,0-18,Male,AfricanAmerican,0.0036299999999999995,8,2021
+Oregon,0-18,Male,Hispanic,0.0022,8,2021
+Oregon,0-18,Male,Asian,0.00121,8,2021
+Oregon,0-18,Male,AmericanIndian,0.00209,8,2021
+Oregon,0-18,Male,OtherPacific_Islander,0.0015400000000000001,8,2021
+Oregon,0-18,Male,TwoOrMore_Races,0.00121,8,2021
+Oregon,0-18,Female,NonHispanic_White,0.0010890000000000001,8,2021
+Oregon,0-18,Female,AfricanAmerican,0.003993,8,2021
+Oregon,0-18,Female,Hispanic,0.00242,8,2021
+Oregon,0-18,Female,Asian,0.0013310000000000002,8,2021
+Oregon,0-18,Female,AmericanIndian,0.002299,8,2021
+Oregon,0-18,Female,OtherPacific_Islander,0.0016940000000000002,8,2021
+Oregon,0-18,Female,TwoOrMore_Races,0.0013310000000000002,8,2021
+Oregon,19-64,Male,NonHispanic_White,0.00099,8,2021
+Oregon,19-64,Male,AfricanAmerican,0.0036299999999999995,8,2021
+Oregon,19-64,Male,Hispanic,0.0022,8,2021
+Oregon,19-64,Male,Asian,0.00121,8,2021
+Oregon,19-64,Male,AmericanIndian,0.00209,8,2021
+Oregon,19-64,Male,OtherPacific_Islander,0.0015400000000000001,8,2021
+Oregon,19-64,Male,TwoOrMore_Races,0.00121,8,2021
+Oregon,19-64,Female,NonHispanic_White,0.0010890000000000001,8,2021
+Oregon,19-64,Female,AfricanAmerican,0.003993,8,2021
+Oregon,19-64,Female,Hispanic,0.00242,8,2021
+Oregon,19-64,Female,Asian,0.0013310000000000002,8,2021
+Oregon,19-64,Female,AmericanIndian,0.002299,8,2021
+Oregon,19-64,Female,OtherPacific_Islander,0.0016940000000000002,8,2021
+Oregon,19-64,Female,TwoOrMore_Races,0.0013310000000000002,8,2021
+Oregon,65+,Male,NonHispanic_White,0.00099,8,2021
+Oregon,65+,Male,AfricanAmerican,0.0036299999999999995,8,2021
+Oregon,65+,Male,Hispanic,0.0022,8,2021
+Oregon,65+,Male,Asian,0.00121,8,2021
+Oregon,65+,Male,AmericanIndian,0.00209,8,2021
+Oregon,65+,Male,OtherPacific_Islander,0.0015400000000000001,8,2021
+Oregon,65+,Male,TwoOrMore_Races,0.00121,8,2021
+Oregon,65+,Female,NonHispanic_White,0.0010890000000000001,8,2021
+Oregon,65+,Female,AfricanAmerican,0.003993,8,2021
+Oregon,65+,Female,Hispanic,0.00242,8,2021
+Oregon,65+,Female,Asian,0.0013310000000000002,8,2021
+Oregon,65+,Female,AmericanIndian,0.002299,8,2021
+Oregon,65+,Female,OtherPacific_Islander,0.0016940000000000002,8,2021
+Oregon,65+,Female,TwoOrMore_Races,0.0013310000000000002,8,2021
+Pennsylvania,0-18,Male,NonHispanic_White,0.0006929999999999999,8,2021
+Pennsylvania,0-18,Male,AfricanAmerican,0.002475,8,2021
+Pennsylvania,0-18,Male,Hispanic,0.002475,8,2021
+Pennsylvania,0-18,Male,Asian,0.001287,8,2021
+Pennsylvania,0-18,Male,AmericanIndian,0.0,8,2021
+Pennsylvania,0-18,Male,OtherPacific_Islander,0.0018809999999999999,8,2021
+Pennsylvania,0-18,Male,TwoOrMore_Races,0.0010890000000000001,8,2021
+Pennsylvania,0-18,Female,NonHispanic_White,0.0008470000000000001,8,2021
+Pennsylvania,0-18,Female,AfricanAmerican,0.003025,8,2021
+Pennsylvania,0-18,Female,Hispanic,0.003025,8,2021
+Pennsylvania,0-18,Female,Asian,0.001573,8,2021
+Pennsylvania,0-18,Female,AmericanIndian,0.0,8,2021
+Pennsylvania,0-18,Female,OtherPacific_Islander,0.002299,8,2021
+Pennsylvania,0-18,Female,TwoOrMore_Races,0.0013310000000000002,8,2021
+Pennsylvania,19-64,Male,NonHispanic_White,0.0006929999999999999,8,2021
+Pennsylvania,19-64,Male,AfricanAmerican,0.002475,8,2021
+Pennsylvania,19-64,Male,Hispanic,0.002475,8,2021
+Pennsylvania,19-64,Male,Asian,0.001287,8,2021
+Pennsylvania,19-64,Male,AmericanIndian,0.0,8,2021
+Pennsylvania,19-64,Male,OtherPacific_Islander,0.0018809999999999999,8,2021
+Pennsylvania,19-64,Male,TwoOrMore_Races,0.0010890000000000001,8,2021
+Pennsylvania,19-64,Female,NonHispanic_White,0.0008470000000000001,8,2021
+Pennsylvania,19-64,Female,AfricanAmerican,0.003025,8,2021
+Pennsylvania,19-64,Female,Hispanic,0.003025,8,2021
+Pennsylvania,19-64,Female,Asian,0.001573,8,2021
+Pennsylvania,19-64,Female,AmericanIndian,0.0,8,2021
+Pennsylvania,19-64,Female,OtherPacific_Islander,0.002299,8,2021
+Pennsylvania,19-64,Female,TwoOrMore_Races,0.0013310000000000002,8,2021
+Pennsylvania,65+,Male,NonHispanic_White,0.0006929999999999999,8,2021
+Pennsylvania,65+,Male,AfricanAmerican,0.002475,8,2021
+Pennsylvania,65+,Male,Hispanic,0.002475,8,2021
+Pennsylvania,65+,Male,Asian,0.001287,8,2021
+Pennsylvania,65+,Male,AmericanIndian,0.0,8,2021
+Pennsylvania,65+,Male,OtherPacific_Islander,0.0018809999999999999,8,2021
+Pennsylvania,65+,Male,TwoOrMore_Races,0.0010890000000000001,8,2021
+Pennsylvania,65+,Female,NonHispanic_White,0.0008470000000000001,8,2021
+Pennsylvania,65+,Female,AfricanAmerican,0.003025,8,2021
+Pennsylvania,65+,Female,Hispanic,0.003025,8,2021
+Pennsylvania,65+,Female,Asian,0.001573,8,2021
+Pennsylvania,65+,Female,AmericanIndian,0.0,8,2021
+Pennsylvania,65+,Female,OtherPacific_Islander,0.002299,8,2021
+Pennsylvania,65+,Female,TwoOrMore_Races,0.0013310000000000002,8,2021
+Rhode Island,0-18,Male,NonHispanic_White,0.0007559999999999999,8,2021
+Rhode Island,0-18,Male,AfricanAmerican,0.001836,8,2021
+Rhode Island,0-18,Male,Hispanic,0.0028079999999999997,8,2021
+Rhode Island,0-18,Male,Asian,0.002052,8,2021
+Rhode Island,0-18,Male,AmericanIndian,0.005832,8,2021
+Rhode Island,0-18,Male,OtherPacific_Islander,0.0019440000000000002,8,2021
+Rhode Island,0-18,Male,TwoOrMore_Races,0.001296,8,2021
+Rhode Island,0-18,Female,NonHispanic_White,0.000924,8,2021
+Rhode Island,0-18,Female,AfricanAmerican,0.0022440000000000003,8,2021
+Rhode Island,0-18,Female,Hispanic,0.003432,8,2021
+Rhode Island,0-18,Female,Asian,0.002508,8,2021
+Rhode Island,0-18,Female,AmericanIndian,0.007128,8,2021
+Rhode Island,0-18,Female,OtherPacific_Islander,0.002376,8,2021
+Rhode Island,0-18,Female,TwoOrMore_Races,0.001584,8,2021
+Rhode Island,19-64,Male,NonHispanic_White,0.0007559999999999999,8,2021
+Rhode Island,19-64,Male,AfricanAmerican,0.001836,8,2021
+Rhode Island,19-64,Male,Hispanic,0.0028079999999999997,8,2021
+Rhode Island,19-64,Male,Asian,0.002052,8,2021
+Rhode Island,19-64,Male,AmericanIndian,0.005832,8,2021
+Rhode Island,19-64,Male,OtherPacific_Islander,0.0019440000000000002,8,2021
+Rhode Island,19-64,Male,TwoOrMore_Races,0.001296,8,2021
+Rhode Island,19-64,Female,NonHispanic_White,0.000924,8,2021
+Rhode Island,19-64,Female,AfricanAmerican,0.0022440000000000003,8,2021
+Rhode Island,19-64,Female,Hispanic,0.003432,8,2021
+Rhode Island,19-64,Female,Asian,0.002508,8,2021
+Rhode Island,19-64,Female,AmericanIndian,0.007128,8,2021
+Rhode Island,19-64,Female,OtherPacific_Islander,0.002376,8,2021
+Rhode Island,19-64,Female,TwoOrMore_Races,0.001584,8,2021
+Rhode Island,65+,Male,NonHispanic_White,0.0007559999999999999,8,2021
+Rhode Island,65+,Male,AfricanAmerican,0.001836,8,2021
+Rhode Island,65+,Male,Hispanic,0.0028079999999999997,8,2021
+Rhode Island,65+,Male,Asian,0.002052,8,2021
+Rhode Island,65+,Male,AmericanIndian,0.005832,8,2021
+Rhode Island,65+,Male,OtherPacific_Islander,0.0019440000000000002,8,2021
+Rhode Island,65+,Male,TwoOrMore_Races,0.001296,8,2021
+Rhode Island,65+,Female,NonHispanic_White,0.000924,8,2021
+Rhode Island,65+,Female,AfricanAmerican,0.0022440000000000003,8,2021
+Rhode Island,65+,Female,Hispanic,0.003432,8,2021
+Rhode Island,65+,Female,Asian,0.002508,8,2021
+Rhode Island,65+,Female,AmericanIndian,0.007128,8,2021
+Rhode Island,65+,Female,OtherPacific_Islander,0.002376,8,2021
+Rhode Island,65+,Female,TwoOrMore_Races,0.001584,8,2021
+South Carolina,0-18,Male,NonHispanic_White,0.0015400000000000001,8,2021
+South Carolina,0-18,Male,AfricanAmerican,0.003696,8,2021
+South Carolina,0-18,Male,Hispanic,0.003542,8,2021
+South Carolina,0-18,Male,Asian,0.002156,8,2021
+South Carolina,0-18,Male,AmericanIndian,0.002156,8,2021
+South Carolina,0-18,Male,OtherPacific_Islander,0.0027719999999999997,8,2021
+South Carolina,0-18,Male,TwoOrMore_Races,0.002156,8,2021
+South Carolina,0-18,Female,NonHispanic_White,0.0021,8,2021
+South Carolina,0-18,Female,AfricanAmerican,0.00504,8,2021
+South Carolina,0-18,Female,Hispanic,0.00483,8,2021
+South Carolina,0-18,Female,Asian,0.00294,8,2021
+South Carolina,0-18,Female,AmericanIndian,0.00294,8,2021
+South Carolina,0-18,Female,OtherPacific_Islander,0.0037799999999999995,8,2021
+South Carolina,0-18,Female,TwoOrMore_Races,0.00294,8,2021
+South Carolina,19-64,Male,NonHispanic_White,0.0015400000000000001,8,2021
+South Carolina,19-64,Male,AfricanAmerican,0.003696,8,2021
+South Carolina,19-64,Male,Hispanic,0.003542,8,2021
+South Carolina,19-64,Male,Asian,0.002156,8,2021
+South Carolina,19-64,Male,AmericanIndian,0.002156,8,2021
+South Carolina,19-64,Male,OtherPacific_Islander,0.0027719999999999997,8,2021
+South Carolina,19-64,Male,TwoOrMore_Races,0.002156,8,2021
+South Carolina,19-64,Female,NonHispanic_White,0.0021,8,2021
+South Carolina,19-64,Female,AfricanAmerican,0.00504,8,2021
+South Carolina,19-64,Female,Hispanic,0.00483,8,2021
+South Carolina,19-64,Female,Asian,0.00294,8,2021
+South Carolina,19-64,Female,AmericanIndian,0.00294,8,2021
+South Carolina,19-64,Female,OtherPacific_Islander,0.0037799999999999995,8,2021
+South Carolina,19-64,Female,TwoOrMore_Races,0.00294,8,2021
+South Carolina,65+,Male,NonHispanic_White,0.0015400000000000001,8,2021
+South Carolina,65+,Male,AfricanAmerican,0.003696,8,2021
+South Carolina,65+,Male,Hispanic,0.003542,8,2021
+South Carolina,65+,Male,Asian,0.002156,8,2021
+South Carolina,65+,Male,AmericanIndian,0.002156,8,2021
+South Carolina,65+,Male,OtherPacific_Islander,0.0027719999999999997,8,2021
+South Carolina,65+,Male,TwoOrMore_Races,0.002156,8,2021
+South Carolina,65+,Female,NonHispanic_White,0.0021,8,2021
+South Carolina,65+,Female,AfricanAmerican,0.00504,8,2021
+South Carolina,65+,Female,Hispanic,0.00483,8,2021
+South Carolina,65+,Female,Asian,0.00294,8,2021
+South Carolina,65+,Female,AmericanIndian,0.00294,8,2021
+South Carolina,65+,Female,OtherPacific_Islander,0.0037799999999999995,8,2021
+South Carolina,65+,Female,TwoOrMore_Races,0.00294,8,2021
+South Dakota,0-18,Male,NonHispanic_White,0.0006929999999999999,8,2021
+South Dakota,0-18,Male,AfricanAmerican,0.004752,8,2021
+South Dakota,0-18,Male,Hispanic,0.0,8,2021
+South Dakota,0-18,Male,Asian,0.0,8,2021
+South Dakota,0-18,Male,AmericanIndian,0.004257,8,2021
+South Dakota,0-18,Male,OtherPacific_Islander,0.0,8,2021
+South Dakota,0-18,Male,TwoOrMore_Races,0.0010890000000000001,8,2021
+South Dakota,0-18,Female,NonHispanic_White,0.0008470000000000001,8,2021
+South Dakota,0-18,Female,AfricanAmerican,0.005808,8,2021
+South Dakota,0-18,Female,Hispanic,0.0,8,2021
+South Dakota,0-18,Female,Asian,0.0,8,2021
+South Dakota,0-18,Female,AmericanIndian,0.005203,8,2021
+South Dakota,0-18,Female,OtherPacific_Islander,0.0,8,2021
+South Dakota,0-18,Female,TwoOrMore_Races,0.0013310000000000002,8,2021
+South Dakota,19-64,Male,NonHispanic_White,0.0006929999999999999,8,2021
+South Dakota,19-64,Male,AfricanAmerican,0.004752,8,2021
+South Dakota,19-64,Male,Hispanic,0.0,8,2021
+South Dakota,19-64,Male,Asian,0.0,8,2021
+South Dakota,19-64,Male,AmericanIndian,0.004257,8,2021
+South Dakota,19-64,Male,OtherPacific_Islander,0.0,8,2021
+South Dakota,19-64,Male,TwoOrMore_Races,0.0010890000000000001,8,2021
+South Dakota,19-64,Female,NonHispanic_White,0.0008470000000000001,8,2021
+South Dakota,19-64,Female,AfricanAmerican,0.005808,8,2021
+South Dakota,19-64,Female,Hispanic,0.0,8,2021
+South Dakota,19-64,Female,Asian,0.0,8,2021
+South Dakota,19-64,Female,AmericanIndian,0.005203,8,2021
+South Dakota,19-64,Female,OtherPacific_Islander,0.0,8,2021
+South Dakota,19-64,Female,TwoOrMore_Races,0.0013310000000000002,8,2021
+South Dakota,65+,Male,NonHispanic_White,0.0006929999999999999,8,2021
+South Dakota,65+,Male,AfricanAmerican,0.004752,8,2021
+South Dakota,65+,Male,Hispanic,0.0,8,2021
+South Dakota,65+,Male,Asian,0.0,8,2021
+South Dakota,65+,Male,AmericanIndian,0.004257,8,2021
+South Dakota,65+,Male,OtherPacific_Islander,0.0,8,2021
+South Dakota,65+,Male,TwoOrMore_Races,0.0010890000000000001,8,2021
+South Dakota,65+,Female,NonHispanic_White,0.0008470000000000001,8,2021
+South Dakota,65+,Female,AfricanAmerican,0.005808,8,2021
+South Dakota,65+,Female,Hispanic,0.0,8,2021
+South Dakota,65+,Female,Asian,0.0,8,2021
+South Dakota,65+,Female,AmericanIndian,0.005203,8,2021
+South Dakota,65+,Female,OtherPacific_Islander,0.0,8,2021
+South Dakota,65+,Female,TwoOrMore_Races,0.0013310000000000002,8,2021
+Tennessee,0-18,Male,NonHispanic_White,0.001848,8,2021
+Tennessee,0-18,Male,AfricanAmerican,0.003542,8,2021
+Tennessee,0-18,Male,Hispanic,0.003696,8,2021
+Tennessee,0-18,Male,Asian,0.001078,8,2021
+Tennessee,0-18,Male,AmericanIndian,0.00231,8,2021
+Tennessee,0-18,Male,OtherPacific_Islander,0.0032340000000000003,8,2021
+Tennessee,0-18,Male,TwoOrMore_Races,0.002156,8,2021
+Tennessee,0-18,Female,NonHispanic_White,0.002352,8,2021
+Tennessee,0-18,Female,AfricanAmerican,0.004508,8,2021
+Tennessee,0-18,Female,Hispanic,0.004704,8,2021
+Tennessee,0-18,Female,Asian,0.001372,8,2021
+Tennessee,0-18,Female,AmericanIndian,0.00294,8,2021
+Tennessee,0-18,Female,OtherPacific_Islander,0.004116,8,2021
+Tennessee,0-18,Female,TwoOrMore_Races,0.002744,8,2021
+Tennessee,19-64,Male,NonHispanic_White,0.001848,8,2021
+Tennessee,19-64,Male,AfricanAmerican,0.003542,8,2021
+Tennessee,19-64,Male,Hispanic,0.003696,8,2021
+Tennessee,19-64,Male,Asian,0.001078,8,2021
+Tennessee,19-64,Male,AmericanIndian,0.00231,8,2021
+Tennessee,19-64,Male,OtherPacific_Islander,0.0032340000000000003,8,2021
+Tennessee,19-64,Male,TwoOrMore_Races,0.002156,8,2021
+Tennessee,19-64,Female,NonHispanic_White,0.002352,8,2021
+Tennessee,19-64,Female,AfricanAmerican,0.004508,8,2021
+Tennessee,19-64,Female,Hispanic,0.004704,8,2021
+Tennessee,19-64,Female,Asian,0.001372,8,2021
+Tennessee,19-64,Female,AmericanIndian,0.00294,8,2021
+Tennessee,19-64,Female,OtherPacific_Islander,0.004116,8,2021
+Tennessee,19-64,Female,TwoOrMore_Races,0.002744,8,2021
+Tennessee,65+,Male,NonHispanic_White,0.001848,8,2021
+Tennessee,65+,Male,AfricanAmerican,0.003542,8,2021
+Tennessee,65+,Male,Hispanic,0.003696,8,2021
+Tennessee,65+,Male,Asian,0.001078,8,2021
+Tennessee,65+,Male,AmericanIndian,0.00231,8,2021
+Tennessee,65+,Male,OtherPacific_Islander,0.0032340000000000003,8,2021
+Tennessee,65+,Male,TwoOrMore_Races,0.002156,8,2021
+Tennessee,65+,Female,NonHispanic_White,0.002352,8,2021
+Tennessee,65+,Female,AfricanAmerican,0.004508,8,2021
+Tennessee,65+,Female,Hispanic,0.004704,8,2021
+Tennessee,65+,Female,Asian,0.001372,8,2021
+Tennessee,65+,Female,AmericanIndian,0.00294,8,2021
+Tennessee,65+,Female,OtherPacific_Islander,0.004116,8,2021
+Tennessee,65+,Female,TwoOrMore_Races,0.002744,8,2021
+Texas,0-18,Male,NonHispanic_White,0.00091,8,2021
+Texas,0-18,Male,AfricanAmerican,0.00247,8,2021
+Texas,0-18,Male,Hispanic,0.0026,8,2021
+Texas,0-18,Male,Asian,0.0013,8,2021
+Texas,0-18,Male,AmericanIndian,0.00195,8,2021
+Texas,0-18,Male,OtherPacific_Islander,0.00156,8,2021
+Texas,0-18,Male,TwoOrMore_Races,0.0016899999999999999,8,2021
+Texas,0-18,Female,NonHispanic_White,0.001183,8,2021
+Texas,0-18,Female,AfricanAmerican,0.003211,8,2021
+Texas,0-18,Female,Hispanic,0.0033799999999999998,8,2021
+Texas,0-18,Female,Asian,0.0016899999999999999,8,2021
+Texas,0-18,Female,AmericanIndian,0.002535,8,2021
+Texas,0-18,Female,OtherPacific_Islander,0.0020280000000000003,8,2021
+Texas,0-18,Female,TwoOrMore_Races,0.0021969999999999997,8,2021
+Texas,19-64,Male,NonHispanic_White,0.00091,8,2021
+Texas,19-64,Male,AfricanAmerican,0.00247,8,2021
+Texas,19-64,Male,Hispanic,0.0026,8,2021
+Texas,19-64,Male,Asian,0.0013,8,2021
+Texas,19-64,Male,AmericanIndian,0.00195,8,2021
+Texas,19-64,Male,OtherPacific_Islander,0.00156,8,2021
+Texas,19-64,Male,TwoOrMore_Races,0.0016899999999999999,8,2021
+Texas,19-64,Female,NonHispanic_White,0.001183,8,2021
+Texas,19-64,Female,AfricanAmerican,0.003211,8,2021
+Texas,19-64,Female,Hispanic,0.0033799999999999998,8,2021
+Texas,19-64,Female,Asian,0.0016899999999999999,8,2021
+Texas,19-64,Female,AmericanIndian,0.002535,8,2021
+Texas,19-64,Female,OtherPacific_Islander,0.0020280000000000003,8,2021
+Texas,19-64,Female,TwoOrMore_Races,0.0021969999999999997,8,2021
+Texas,65+,Male,NonHispanic_White,0.00091,8,2021
+Texas,65+,Male,AfricanAmerican,0.00247,8,2021
+Texas,65+,Male,Hispanic,0.0026,8,2021
+Texas,65+,Male,Asian,0.0013,8,2021
+Texas,65+,Male,AmericanIndian,0.00195,8,2021
+Texas,65+,Male,OtherPacific_Islander,0.00156,8,2021
+Texas,65+,Male,TwoOrMore_Races,0.0016899999999999999,8,2021
+Texas,65+,Female,NonHispanic_White,0.001183,8,2021
+Texas,65+,Female,AfricanAmerican,0.003211,8,2021
+Texas,65+,Female,Hispanic,0.0033799999999999998,8,2021
+Texas,65+,Female,Asian,0.0016899999999999999,8,2021
+Texas,65+,Female,AmericanIndian,0.002535,8,2021
+Texas,65+,Female,OtherPacific_Islander,0.0020280000000000003,8,2021
+Texas,65+,Female,TwoOrMore_Races,0.0021969999999999997,8,2021
+Utah,0-18,Male,NonHispanic_White,0.00044100000000000004,8,2021
+Utah,0-18,Male,AfricanAmerican,0.0017640000000000002,8,2021
+Utah,0-18,Male,Hispanic,0.001008,8,2021
+Utah,0-18,Male,Asian,0.001134,8,2021
+Utah,0-18,Male,AmericanIndian,0.0015119999999999999,8,2021
+Utah,0-18,Male,OtherPacific_Islander,0.000504,8,2021
+Utah,0-18,Male,TwoOrMore_Races,0.000567,8,2021
+Utah,0-18,Female,NonHispanic_White,0.000567,8,2021
+Utah,0-18,Female,AfricanAmerican,0.002268,8,2021
+Utah,0-18,Female,Hispanic,0.001296,8,2021
+Utah,0-18,Female,Asian,0.001458,8,2021
+Utah,0-18,Female,AmericanIndian,0.0019440000000000002,8,2021
+Utah,0-18,Female,OtherPacific_Islander,0.000648,8,2021
+Utah,0-18,Female,TwoOrMore_Races,0.000729,8,2021
+Utah,19-64,Male,NonHispanic_White,0.00044100000000000004,8,2021
+Utah,19-64,Male,AfricanAmerican,0.0017640000000000002,8,2021
+Utah,19-64,Male,Hispanic,0.001008,8,2021
+Utah,19-64,Male,Asian,0.001134,8,2021
+Utah,19-64,Male,AmericanIndian,0.0015119999999999999,8,2021
+Utah,19-64,Male,OtherPacific_Islander,0.000504,8,2021
+Utah,19-64,Male,TwoOrMore_Races,0.000567,8,2021
+Utah,19-64,Female,NonHispanic_White,0.000567,8,2021
+Utah,19-64,Female,AfricanAmerican,0.002268,8,2021
+Utah,19-64,Female,Hispanic,0.001296,8,2021
+Utah,19-64,Female,Asian,0.001458,8,2021
+Utah,19-64,Female,AmericanIndian,0.0019440000000000002,8,2021
+Utah,19-64,Female,OtherPacific_Islander,0.000648,8,2021
+Utah,19-64,Female,TwoOrMore_Races,0.000729,8,2021
+Utah,65+,Male,NonHispanic_White,0.00044100000000000004,8,2021
+Utah,65+,Male,AfricanAmerican,0.0017640000000000002,8,2021
+Utah,65+,Male,Hispanic,0.001008,8,2021
+Utah,65+,Male,Asian,0.001134,8,2021
+Utah,65+,Male,AmericanIndian,0.0015119999999999999,8,2021
+Utah,65+,Male,OtherPacific_Islander,0.000504,8,2021
+Utah,65+,Male,TwoOrMore_Races,0.000567,8,2021
+Utah,65+,Female,NonHispanic_White,0.000567,8,2021
+Utah,65+,Female,AfricanAmerican,0.002268,8,2021
+Utah,65+,Female,Hispanic,0.001296,8,2021
+Utah,65+,Female,Asian,0.001458,8,2021
+Utah,65+,Female,AmericanIndian,0.0019440000000000002,8,2021
+Utah,65+,Female,OtherPacific_Islander,0.000648,8,2021
+Utah,65+,Female,TwoOrMore_Races,0.000729,8,2021
+Vermont,0-18,Male,NonHispanic_White,0.000294,8,2021
+Vermont,0-18,Male,AfricanAmerican,0.0,8,2021
+Vermont,0-18,Male,Hispanic,0.0,8,2021
+Vermont,0-18,Male,Asian,0.0,8,2021
+Vermont,0-18,Male,AmericanIndian,0.0,8,2021
+Vermont,0-18,Male,OtherPacific_Islander,0.0,8,2021
+Vermont,0-18,Male,TwoOrMore_Races,0.000294,8,2021
+Vermont,0-18,Female,NonHispanic_White,0.000392,8,2021
+Vermont,0-18,Female,AfricanAmerican,0.0,8,2021
+Vermont,0-18,Female,Hispanic,0.0,8,2021
+Vermont,0-18,Female,Asian,0.0,8,2021
+Vermont,0-18,Female,AmericanIndian,0.0,8,2021
+Vermont,0-18,Female,OtherPacific_Islander,0.0,8,2021
+Vermont,0-18,Female,TwoOrMore_Races,0.000392,8,2021
+Vermont,19-64,Male,NonHispanic_White,0.000294,8,2021
+Vermont,19-64,Male,AfricanAmerican,0.0,8,2021
+Vermont,19-64,Male,Hispanic,0.0,8,2021
+Vermont,19-64,Male,Asian,0.0,8,2021
+Vermont,19-64,Male,AmericanIndian,0.0,8,2021
+Vermont,19-64,Male,OtherPacific_Islander,0.0,8,2021
+Vermont,19-64,Male,TwoOrMore_Races,0.000294,8,2021
+Vermont,19-64,Female,NonHispanic_White,0.000392,8,2021
+Vermont,19-64,Female,AfricanAmerican,0.0,8,2021
+Vermont,19-64,Female,Hispanic,0.0,8,2021
+Vermont,19-64,Female,Asian,0.0,8,2021
+Vermont,19-64,Female,AmericanIndian,0.0,8,2021
+Vermont,19-64,Female,OtherPacific_Islander,0.0,8,2021
+Vermont,19-64,Female,TwoOrMore_Races,0.000392,8,2021
+Vermont,65+,Male,NonHispanic_White,0.000294,8,2021
+Vermont,65+,Male,AfricanAmerican,0.0,8,2021
+Vermont,65+,Male,Hispanic,0.0,8,2021
+Vermont,65+,Male,Asian,0.0,8,2021
+Vermont,65+,Male,AmericanIndian,0.0,8,2021
+Vermont,65+,Male,OtherPacific_Islander,0.0,8,2021
+Vermont,65+,Male,TwoOrMore_Races,0.000294,8,2021
+Vermont,65+,Female,NonHispanic_White,0.000392,8,2021
+Vermont,65+,Female,AfricanAmerican,0.0,8,2021
+Vermont,65+,Female,Hispanic,0.0,8,2021
+Vermont,65+,Female,Asian,0.0,8,2021
+Vermont,65+,Female,AmericanIndian,0.0,8,2021
+Vermont,65+,Female,OtherPacific_Islander,0.0,8,2021
+Vermont,65+,Female,TwoOrMore_Races,0.000392,8,2021
+Virginia,0-18,Male,NonHispanic_White,0.00044100000000000004,8,2021
+Virginia,0-18,Male,AfricanAmerican,0.0010710000000000001,8,2021
+Virginia,0-18,Male,Hispanic,0.00063,8,2021
+Virginia,0-18,Male,Asian,0.00044100000000000004,8,2021
+Virginia,0-18,Male,AmericanIndian,0.0,8,2021
+Virginia,0-18,Male,OtherPacific_Islander,0.000567,8,2021
+Virginia,0-18,Male,TwoOrMore_Races,0.000567,8,2021
+Virginia,0-18,Female,NonHispanic_White,0.000567,8,2021
+Virginia,0-18,Female,AfricanAmerican,0.001377,8,2021
+Virginia,0-18,Female,Hispanic,0.00081,8,2021
+Virginia,0-18,Female,Asian,0.000567,8,2021
+Virginia,0-18,Female,AmericanIndian,0.0,8,2021
+Virginia,0-18,Female,OtherPacific_Islander,0.000729,8,2021
+Virginia,0-18,Female,TwoOrMore_Races,0.000729,8,2021
+Virginia,19-64,Male,NonHispanic_White,0.00044100000000000004,8,2021
+Virginia,19-64,Male,AfricanAmerican,0.0010710000000000001,8,2021
+Virginia,19-64,Male,Hispanic,0.00063,8,2021
+Virginia,19-64,Male,Asian,0.00044100000000000004,8,2021
+Virginia,19-64,Male,AmericanIndian,0.0,8,2021
+Virginia,19-64,Male,OtherPacific_Islander,0.000567,8,2021
+Virginia,19-64,Male,TwoOrMore_Races,0.000567,8,2021
+Virginia,19-64,Female,NonHispanic_White,0.000567,8,2021
+Virginia,19-64,Female,AfricanAmerican,0.001377,8,2021
+Virginia,19-64,Female,Hispanic,0.00081,8,2021
+Virginia,19-64,Female,Asian,0.000567,8,2021
+Virginia,19-64,Female,AmericanIndian,0.0,8,2021
+Virginia,19-64,Female,OtherPacific_Islander,0.000729,8,2021
+Virginia,19-64,Female,TwoOrMore_Races,0.000729,8,2021
+Virginia,65+,Male,NonHispanic_White,0.00044100000000000004,8,2021
+Virginia,65+,Male,AfricanAmerican,0.0010710000000000001,8,2021
+Virginia,65+,Male,Hispanic,0.00063,8,2021
+Virginia,65+,Male,Asian,0.00044100000000000004,8,2021
+Virginia,65+,Male,AmericanIndian,0.0,8,2021
+Virginia,65+,Male,OtherPacific_Islander,0.000567,8,2021
+Virginia,65+,Male,TwoOrMore_Races,0.000567,8,2021
+Virginia,65+,Female,NonHispanic_White,0.000567,8,2021
+Virginia,65+,Female,AfricanAmerican,0.001377,8,2021
+Virginia,65+,Female,Hispanic,0.00081,8,2021
+Virginia,65+,Female,Asian,0.000567,8,2021
+Virginia,65+,Female,AmericanIndian,0.0,8,2021
+Virginia,65+,Female,OtherPacific_Islander,0.000729,8,2021
+Virginia,65+,Female,TwoOrMore_Races,0.000729,8,2021
+Washington,0-18,Male,NonHispanic_White,0.000504,8,2021
+Washington,0-18,Male,AfricanAmerican,0.001368,8,2021
+Washington,0-18,Male,Hispanic,0.001296,8,2021
+Washington,0-18,Male,Asian,0.000576,8,2021
+Washington,0-18,Male,AmericanIndian,0.001296,8,2021
+Washington,0-18,Male,OtherPacific_Islander,0.00072,8,2021
+Washington,0-18,Male,TwoOrMore_Races,0.000648,8,2021
+Washington,0-18,Female,NonHispanic_White,0.000567,8,2021
+Washington,0-18,Female,AfricanAmerican,0.001539,8,2021
+Washington,0-18,Female,Hispanic,0.001458,8,2021
+Washington,0-18,Female,Asian,0.000648,8,2021
+Washington,0-18,Female,AmericanIndian,0.001458,8,2021
+Washington,0-18,Female,OtherPacific_Islander,0.00081,8,2021
+Washington,0-18,Female,TwoOrMore_Races,0.000729,8,2021
+Washington,19-64,Male,NonHispanic_White,0.000504,8,2021
+Washington,19-64,Male,AfricanAmerican,0.001368,8,2021
+Washington,19-64,Male,Hispanic,0.001296,8,2021
+Washington,19-64,Male,Asian,0.000576,8,2021
+Washington,19-64,Male,AmericanIndian,0.001296,8,2021
+Washington,19-64,Male,OtherPacific_Islander,0.00072,8,2021
+Washington,19-64,Male,TwoOrMore_Races,0.000648,8,2021
+Washington,19-64,Female,NonHispanic_White,0.000567,8,2021
+Washington,19-64,Female,AfricanAmerican,0.001539,8,2021
+Washington,19-64,Female,Hispanic,0.001458,8,2021
+Washington,19-64,Female,Asian,0.000648,8,2021
+Washington,19-64,Female,AmericanIndian,0.001458,8,2021
+Washington,19-64,Female,OtherPacific_Islander,0.00081,8,2021
+Washington,19-64,Female,TwoOrMore_Races,0.000729,8,2021
+Washington,65+,Male,NonHispanic_White,0.000504,8,2021
+Washington,65+,Male,AfricanAmerican,0.001368,8,2021
+Washington,65+,Male,Hispanic,0.001296,8,2021
+Washington,65+,Male,Asian,0.000576,8,2021
+Washington,65+,Male,AmericanIndian,0.001296,8,2021
+Washington,65+,Male,OtherPacific_Islander,0.00072,8,2021
+Washington,65+,Male,TwoOrMore_Races,0.000648,8,2021
+Washington,65+,Female,NonHispanic_White,0.000567,8,2021
+Washington,65+,Female,AfricanAmerican,0.001539,8,2021
+Washington,65+,Female,Hispanic,0.001458,8,2021
+Washington,65+,Female,Asian,0.000648,8,2021
+Washington,65+,Female,AmericanIndian,0.001458,8,2021
+Washington,65+,Female,OtherPacific_Islander,0.00081,8,2021
+Washington,65+,Female,TwoOrMore_Races,0.000729,8,2021
+West Virginia,0-18,Male,NonHispanic_White,0.00315,8,2021
+West Virginia,0-18,Male,AfricanAmerican,0.00504,8,2021
+West Virginia,0-18,Male,Hispanic,0.0,8,2021
+West Virginia,0-18,Male,Asian,0.0,8,2021
+West Virginia,0-18,Male,AmericanIndian,0.0,8,2021
+West Virginia,0-18,Male,OtherPacific_Islander,0.00483,8,2021
+West Virginia,0-18,Male,TwoOrMore_Races,0.00315,8,2021
+West Virginia,0-18,Female,NonHispanic_White,0.0036,8,2021
+West Virginia,0-18,Female,AfricanAmerican,0.00576,8,2021
+West Virginia,0-18,Female,Hispanic,0.0,8,2021
+West Virginia,0-18,Female,Asian,0.0,8,2021
+West Virginia,0-18,Female,AmericanIndian,0.0,8,2021
+West Virginia,0-18,Female,OtherPacific_Islander,0.005520000000000001,8,2021
+West Virginia,0-18,Female,TwoOrMore_Races,0.0036,8,2021
+West Virginia,19-64,Male,NonHispanic_White,0.00315,8,2021
+West Virginia,19-64,Male,AfricanAmerican,0.00504,8,2021
+West Virginia,19-64,Male,Hispanic,0.0,8,2021
+West Virginia,19-64,Male,Asian,0.0,8,2021
+West Virginia,19-64,Male,AmericanIndian,0.0,8,2021
+West Virginia,19-64,Male,OtherPacific_Islander,0.00483,8,2021
+West Virginia,19-64,Male,TwoOrMore_Races,0.00315,8,2021
+West Virginia,19-64,Female,NonHispanic_White,0.0036,8,2021
+West Virginia,19-64,Female,AfricanAmerican,0.00576,8,2021
+West Virginia,19-64,Female,Hispanic,0.0,8,2021
+West Virginia,19-64,Female,Asian,0.0,8,2021
+West Virginia,19-64,Female,AmericanIndian,0.0,8,2021
+West Virginia,19-64,Female,OtherPacific_Islander,0.005520000000000001,8,2021
+West Virginia,19-64,Female,TwoOrMore_Races,0.0036,8,2021
+West Virginia,65+,Male,NonHispanic_White,0.00315,8,2021
+West Virginia,65+,Male,AfricanAmerican,0.00504,8,2021
+West Virginia,65+,Male,Hispanic,0.0,8,2021
+West Virginia,65+,Male,Asian,0.0,8,2021
+West Virginia,65+,Male,AmericanIndian,0.0,8,2021
+West Virginia,65+,Male,OtherPacific_Islander,0.00483,8,2021
+West Virginia,65+,Male,TwoOrMore_Races,0.00315,8,2021
+West Virginia,65+,Female,NonHispanic_White,0.0036,8,2021
+West Virginia,65+,Female,AfricanAmerican,0.00576,8,2021
+West Virginia,65+,Female,Hispanic,0.0,8,2021
+West Virginia,65+,Female,Asian,0.0,8,2021
+West Virginia,65+,Female,AmericanIndian,0.0,8,2021
+West Virginia,65+,Female,OtherPacific_Islander,0.005520000000000001,8,2021
+West Virginia,65+,Female,TwoOrMore_Races,0.0036,8,2021
+Wisconsin,0-18,Male,NonHispanic_White,0.000504,8,2021
+Wisconsin,0-18,Male,AfricanAmerican,0.001872,8,2021
+Wisconsin,0-18,Male,Hispanic,0.001224,8,2021
+Wisconsin,0-18,Male,Asian,0.000936,8,2021
+Wisconsin,0-18,Male,AmericanIndian,0.001224,8,2021
+Wisconsin,0-18,Male,OtherPacific_Islander,0.00108,8,2021
+Wisconsin,0-18,Male,TwoOrMore_Races,0.000648,8,2021
+Wisconsin,0-18,Female,NonHispanic_White,0.000567,8,2021
+Wisconsin,0-18,Female,AfricanAmerican,0.002106,8,2021
+Wisconsin,0-18,Female,Hispanic,0.001377,8,2021
+Wisconsin,0-18,Female,Asian,0.001053,8,2021
+Wisconsin,0-18,Female,AmericanIndian,0.001377,8,2021
+Wisconsin,0-18,Female,OtherPacific_Islander,0.001215,8,2021
+Wisconsin,0-18,Female,TwoOrMore_Races,0.000729,8,2021
+Wisconsin,19-64,Male,NonHispanic_White,0.000504,8,2021
+Wisconsin,19-64,Male,AfricanAmerican,0.001872,8,2021
+Wisconsin,19-64,Male,Hispanic,0.001224,8,2021
+Wisconsin,19-64,Male,Asian,0.000936,8,2021
+Wisconsin,19-64,Male,AmericanIndian,0.001224,8,2021
+Wisconsin,19-64,Male,OtherPacific_Islander,0.00108,8,2021
+Wisconsin,19-64,Male,TwoOrMore_Races,0.000648,8,2021
+Wisconsin,19-64,Female,NonHispanic_White,0.000567,8,2021
+Wisconsin,19-64,Female,AfricanAmerican,0.002106,8,2021
+Wisconsin,19-64,Female,Hispanic,0.001377,8,2021
+Wisconsin,19-64,Female,Asian,0.001053,8,2021
+Wisconsin,19-64,Female,AmericanIndian,0.001377,8,2021
+Wisconsin,19-64,Female,OtherPacific_Islander,0.001215,8,2021
+Wisconsin,19-64,Female,TwoOrMore_Races,0.000729,8,2021
+Wisconsin,65+,Male,NonHispanic_White,0.000504,8,2021
+Wisconsin,65+,Male,AfricanAmerican,0.001872,8,2021
+Wisconsin,65+,Male,Hispanic,0.001224,8,2021
+Wisconsin,65+,Male,Asian,0.000936,8,2021
+Wisconsin,65+,Male,AmericanIndian,0.001224,8,2021
+Wisconsin,65+,Male,OtherPacific_Islander,0.00108,8,2021
+Wisconsin,65+,Male,TwoOrMore_Races,0.000648,8,2021
+Wisconsin,65+,Female,NonHispanic_White,0.000567,8,2021
+Wisconsin,65+,Female,AfricanAmerican,0.002106,8,2021
+Wisconsin,65+,Female,Hispanic,0.001377,8,2021
+Wisconsin,65+,Female,Asian,0.001053,8,2021
+Wisconsin,65+,Female,AmericanIndian,0.001377,8,2021
+Wisconsin,65+,Female,OtherPacific_Islander,0.001215,8,2021
+Wisconsin,65+,Female,TwoOrMore_Races,0.000729,8,2021
+Wyoming,0-18,Male,NonHispanic_White,0.00028,8,2021
+Wyoming,0-18,Male,AfricanAmerican,0.0,8,2021
+Wyoming,0-18,Male,Hispanic,0.0,8,2021
+Wyoming,0-18,Male,Asian,0.0,8,2021
+Wyoming,0-18,Male,AmericanIndian,0.0,8,2021
+Wyoming,0-18,Male,OtherPacific_Islander,0.0,8,2021
+Wyoming,0-18,Male,TwoOrMore_Races,0.00032,8,2021
+Wyoming,0-18,Female,NonHispanic_White,0.00044800000000000005,8,2021
+Wyoming,0-18,Female,AfricanAmerican,0.0,8,2021
+Wyoming,0-18,Female,Hispanic,0.0,8,2021
+Wyoming,0-18,Female,Asian,0.0,8,2021
+Wyoming,0-18,Female,AmericanIndian,0.0,8,2021
+Wyoming,0-18,Female,OtherPacific_Islander,0.0,8,2021
+Wyoming,0-18,Female,TwoOrMore_Races,0.000512,8,2021
+Wyoming,19-64,Male,NonHispanic_White,0.00028,8,2021
+Wyoming,19-64,Male,AfricanAmerican,0.0,8,2021
+Wyoming,19-64,Male,Hispanic,0.0,8,2021
+Wyoming,19-64,Male,Asian,0.0,8,2021
+Wyoming,19-64,Male,AmericanIndian,0.0,8,2021
+Wyoming,19-64,Male,OtherPacific_Islander,0.0,8,2021
+Wyoming,19-64,Male,TwoOrMore_Races,0.00032,8,2021
+Wyoming,19-64,Female,NonHispanic_White,0.00044800000000000005,8,2021
+Wyoming,19-64,Female,AfricanAmerican,0.0,8,2021
+Wyoming,19-64,Female,Hispanic,0.0,8,2021
+Wyoming,19-64,Female,Asian,0.0,8,2021
+Wyoming,19-64,Female,AmericanIndian,0.0,8,2021
+Wyoming,19-64,Female,OtherPacific_Islander,0.0,8,2021
+Wyoming,19-64,Female,TwoOrMore_Races,0.000512,8,2021
+Wyoming,65+,Male,NonHispanic_White,0.00028,8,2021
+Wyoming,65+,Male,AfricanAmerican,0.0,8,2021
+Wyoming,65+,Male,Hispanic,0.0,8,2021
+Wyoming,65+,Male,Asian,0.0,8,2021
+Wyoming,65+,Male,AmericanIndian,0.0,8,2021
+Wyoming,65+,Male,OtherPacific_Islander,0.0,8,2021
+Wyoming,65+,Male,TwoOrMore_Races,0.00032,8,2021
+Wyoming,65+,Female,NonHispanic_White,0.00044800000000000005,8,2021
+Wyoming,65+,Female,AfricanAmerican,0.0,8,2021
+Wyoming,65+,Female,Hispanic,0.0,8,2021
+Wyoming,65+,Female,Asian,0.0,8,2021
+Wyoming,65+,Female,AmericanIndian,0.0,8,2021
+Wyoming,65+,Female,OtherPacific_Islander,0.0,8,2021
+Wyoming,65+,Female,TwoOrMore_Races,0.000512,8,2021
+Puerto Rico,0-18,Male,NonHispanic_White,0.065208,8,2021
+Puerto Rico,0-18,Male,AfricanAmerican,0.078584,8,2021
+Puerto Rico,0-18,Male,Hispanic,0.073568,8,2021
+Puerto Rico,0-18,Male,Asian,0.0,8,2021
+Puerto Rico,0-18,Male,AmericanIndian,0.0,8,2021
+Puerto Rico,0-18,Male,OtherPacific_Islander,0.085272,8,2021
+Puerto Rico,0-18,Male,TwoOrMore_Races,0.073568,8,2021
+Puerto Rico,0-18,Female,NonHispanic_White,0.073788,8,2021
+Puerto Rico,0-18,Female,AfricanAmerican,0.088924,8,2021
+Puerto Rico,0-18,Female,Hispanic,0.083248,8,2021
+Puerto Rico,0-18,Female,Asian,0.0,8,2021
+Puerto Rico,0-18,Female,AmericanIndian,0.0,8,2021
+Puerto Rico,0-18,Female,OtherPacific_Islander,0.096492,8,2021
+Puerto Rico,0-18,Female,TwoOrMore_Races,0.083248,8,2021
+Puerto Rico,19-64,Male,NonHispanic_White,0.065208,8,2021
+Puerto Rico,19-64,Male,AfricanAmerican,0.078584,8,2021
+Puerto Rico,19-64,Male,Hispanic,0.073568,8,2021
+Puerto Rico,19-64,Male,Asian,0.0,8,2021
+Puerto Rico,19-64,Male,AmericanIndian,0.0,8,2021
+Puerto Rico,19-64,Male,OtherPacific_Islander,0.085272,8,2021
+Puerto Rico,19-64,Male,TwoOrMore_Races,0.073568,8,2021
+Puerto Rico,19-64,Female,NonHispanic_White,0.073788,8,2021
+Puerto Rico,19-64,Female,AfricanAmerican,0.088924,8,2021
+Puerto Rico,19-64,Female,Hispanic,0.083248,8,2021
+Puerto Rico,19-64,Female,Asian,0.0,8,2021
+Puerto Rico,19-64,Female,AmericanIndian,0.0,8,2021
+Puerto Rico,19-64,Female,OtherPacific_Islander,0.096492,8,2021
+Puerto Rico,19-64,Female,TwoOrMore_Races,0.083248,8,2021
+Puerto Rico,65+,Male,NonHispanic_White,0.065208,8,2021
+Puerto Rico,65+,Male,AfricanAmerican,0.078584,8,2021
+Puerto Rico,65+,Male,Hispanic,0.073568,8,2021
+Puerto Rico,65+,Male,Asian,0.0,8,2021
+Puerto Rico,65+,Male,AmericanIndian,0.0,8,2021
+Puerto Rico,65+,Male,OtherPacific_Islander,0.085272,8,2021
+Puerto Rico,65+,Male,TwoOrMore_Races,0.073568,8,2021
+Puerto Rico,65+,Female,NonHispanic_White,0.073788,8,2021
+Puerto Rico,65+,Female,AfricanAmerican,0.088924,8,2021
+Puerto Rico,65+,Female,Hispanic,0.083248,8,2021
+Puerto Rico,65+,Female,Asian,0.0,8,2021
+Puerto Rico,65+,Female,AmericanIndian,0.0,8,2021
+Puerto Rico,65+,Female,OtherPacific_Islander,0.096492,8,2021
+Puerto Rico,65+,Female,TwoOrMore_Races,0.083248,8,2021

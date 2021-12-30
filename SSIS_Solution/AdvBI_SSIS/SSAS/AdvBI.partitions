@@ -1,0 +1,105 @@
+﻿<Cube xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="778567ed-4ea0-4fe4-817c-5a1b32775a66" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>AdvBI</ID>
+  <MeasureGroups>
+    <MeasureGroup>
+      <ID>Health Insurance Source Table</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="1053504e-5d41-4983-9bb3-f0ea6034325d">
+          <ID>Health Insurance Source Table</ID>
+          <Name>Health Insurance Source Table</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="1c662598-0db4-4e86-99b0-64cc8db8e5d3">
+            <DataSourceViewID>AdvBI</DataSourceViewID>
+            <TableID>dbo_HealthInsuranceSourceTable</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>Income Source Table</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="2ea44e9c-4152-4b66-ae2f-fa2e155e8509">
+          <ID>Income Source Table</ID>
+          <Name>Income Source Table</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="f8a2b07b-8a46-4656-9a78-825b327f8682">
+            <DataSourceViewID>AdvBI</DataSourceViewID>
+            <TableID>dbo_IncomeSourceTable</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>Medicaid Source Table</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="7abdd862-8b8e-4c17-b39b-6c592a142687">
+          <ID>Medicaid Source Table</ID>
+          <Name>Medicaid Source Table</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="06a89f87-3143-40ac-aecd-d5cf56f6be8a">
+            <DataSourceViewID>AdvBI</DataSourceViewID>
+            <TableID>dbo_MedicaidSourceTable</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>Medicare Source Table</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="1d7a25db-b26a-47ec-bf9d-a0217a7b5429">
+          <ID>Medicare Source Table</ID>
+          <Name>Medicare Source Table</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="4940f6b0-3ae1-4e07-bfe7-8c8b727376ee">
+            <DataSourceViewID>AdvBI</DataSourceViewID>
+            <TableID>dbo_MedicareSourceTable</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>Poverty Source Table</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="2f4483a0-4bc9-45f3-8a07-709613de9a31">
+          <ID>Poverty Source Table</ID>
+          <Name>Poverty Source Table</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="8cecd2fe-649b-494b-854e-22aad80bbef7">
+            <DataSourceViewID>AdvBI</DataSourceViewID>
+            <TableID>dbo_PovertySourceTable</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+  </MeasureGroups>
+</Cube>

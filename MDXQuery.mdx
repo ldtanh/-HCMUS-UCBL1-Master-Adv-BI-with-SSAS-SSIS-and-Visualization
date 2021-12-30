@@ -1,0 +1,42 @@
+// Query total people (having Insurance) by State,
+SELECT 
+	[Measures].[Total People]
+ON COLUMNS,	
+	[State Table].[State].[State]
+ON ROWS
+FROM [HealthInsurance];
+
+// Query total people (having Insurance) by State,
+// with DateTime hierarchies
+SELECT 
+	NON EMPTY {
+		[Date Time Table].[Hierarchy].[Year],
+		[Date Time Table].[Hierarchy].[Month]
+	}
+ON COLUMNS,	
+	[State Table].[State].[State]
+ON ROWS
+FROM [HealthInsurance];
+
+
+// Total People with HealthCare by Coverage Type by Month 
+SELECT 
+	[Date Time Table].[Hierarchy].[Month]
+ON COLUMNS,	
+	[Coverage Type Table].[Coverage Type].[Coverage Type]
+ON ROWS
+FROM [HealthInsurance];
+
+// Get avg poverty rate by Age Group on for every state
+WITH 
+	MEMBER [Measures].[Avg Poverty Rate] AS 
+		AVG(
+			EXISTING [Age Group Table].[Age Group].[Age Group].Members, 
+			[Measures].[Poverty Rate]
+		)
+SELECT 
+	NON EMPTY  [Measures].[Avg Poverty Rate]
+ON COLUMNS,	
+	NON EMPTY  [State Table].[State].[State]
+ON ROWS
+FROM [Poverty];
